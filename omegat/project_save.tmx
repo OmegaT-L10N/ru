@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120455Z" creationid="Kos Ivantsov" creationdate="20170905T120455Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120423Z" creationid="Kos Ivantsov" creationdate="20170905T120423Z">
