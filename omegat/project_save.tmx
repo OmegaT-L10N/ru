@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120511Z" creationid="Kos Ivantsov" creationdate="20170905T120511Z">
+        <seg>Проект OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120257Z" creationid="Kos Ivantsov" creationdate="20170905T120257Z">
