@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211142Z" creationid="Kos Ivantsov" creationdate="20170906T211142Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -16260,8 +16268,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T174208Z" creationid="abashkinl" creationdate="20170315T174208Z">
-        <seg>Чтобы узнать, какая версия JRE установлена в вашей системе GNU/Linux (если вообще), откройте консоль (окно для ввода команд) и напечатайте:</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211155Z" creationid="abashkinl" creationdate="20170315T174208Z">
+        <seg>Чтобы узнать, какая версия JRE установлена в вашей системе GNU/Linux (если вообще), откройте консоль (окно терминала для ввода команд) и напечатайте:</seg>
       </tuv>
     </tu>
     <tu>
