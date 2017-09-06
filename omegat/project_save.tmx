@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#tab-install-type</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T210803Z" creationid="Kos Ivantsov" creationdate="20170906T210803Z">
+        <seg>#tab-install-type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
