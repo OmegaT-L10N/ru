@@ -1,0 +1,68 @@
+<div class="container">
+
+  <div class="text-md-center">
+  <h3>Website content authors</h3>
+  <ul class="list-unstyled">
+    
+    {% for author in site.data.credits.website %}
+      
+      <li>{{ author }}</li>
+    
+    {% endfor %}
+  
+  </ul>
+
+  <h3>Website design</h3>
+  <ul class="list-unstyled">
+    <li>Briac Pilpré</li>
+  </ul>
+
+  
+
+  {% if site.lang != "en" %}
+  
+  <h3>English version translators</h3>
+  <ul class="list-unstyled">
+    
+    {% for translator in site.data.credits.translators[site.lang] %}
+      
+      <li>{{ translator }}</li>
+    
+    {% endfor %}
+  
+  </ul>
+  
+  {% endif %}
+  
+  </div>
+
+  <h2>Проект OmegaT</h2>
+  <p>Проект OmegaT поддерживается неофициальной международной группой добровольцев. Его целью является разработка, распространение и поддержка OmegaT — программного обеспечения с открытым исходным кодом с поддержкой памяти переводов.</p>
+  <p>Главные участники проекта:</p>
+  <div class="text-md-center">
+    <h3>Создатель программы OmegaT</h3>
+    <p>Кит Годфри (Keith Godfrey)</p>
+    <h3>Руководитель проекта</h3>
+    <p>Дидье Брейль (Didier Briel)</p>
+    <h3>Ведущий разработчик проекта</h3>
+    <p>Алекс Булойчик (Alex Buloichik)</p>
+    <h3>Диспетчер интеграции</h3>
+    <p>Эрон Медлон-Кэй (Aaron Madlon-Kay)</p>
+    <h3>Веб-мастер</h3>
+    <p>Марк Прайор (Marc Prior)</p>
+    <h3>Ответственный за документацию</h3>
+    <p>Винсент Бидау (Vincent Bidaux)</p>
+    <h3>Ответственный за локализацию, владелец пользовательской группы</h3>
+    <p>Жан-Кристоф Хелари (Jean-Christophe Helary)</p>
+    <h3>Разработчики</h3>
+    <ul class="list-unstyled">
+      
+      {% for dev in site.data.contributors %}
+      {% if dev.name.size &gt; 0 %}<li>{{ dev.name }}</li>{% endif %}
+      {% endfor %}
+    
+    </ul>
+  </div>
+  <p>С философией проекта можно ознакомиться <a href="philosophy.html">здесь</a>.</p>
+  <p>С момента создания проекта его поддержали слишком много людей, чтобы перечислить их здесь, но которым мы очень благодарны за их помощь.</p>
+</div>
