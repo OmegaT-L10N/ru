@@ -18440,6 +18440,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212334Z" creationid="Kos Ivantsov" creationdate="20170906T212334Z">
+        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T224526Z" creationid="abashkinl" creationdate="20170311T224526Z">
