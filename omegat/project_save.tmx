@@ -16196,8 +16196,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T174642Z" creationid="abashkinl" creationdate="20170315T174642Z">
-        <seg>Эта версия JRE будет использована только для запуска OmegaT, и не будет конфликтовать, переопределять или удалять любые другие установки JRE, а значит абсолютна безопасна для использования.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211523Z" creationid="abashkinl" creationdate="20170315T174642Z">
+        <seg>Эта версия JRE будет использована только для запуска OmegaT, и не будет конфликтовать, переопределять или удалять любые другие установки JRE, а значит она является вполне безопасной для использования.</seg>
       </tuv>
     </tu>
     <tu>
