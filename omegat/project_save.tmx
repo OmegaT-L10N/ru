@@ -14145,14 +14145,6 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Standard</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Стандартный</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T071820Z" creationid="abashkinl" creationdate="20161012T071820Z">
