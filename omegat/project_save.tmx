@@ -13443,8 +13443,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T183327Z" creationid="abashkinl" creationdate="20170315T183327Z">
-        <seg>Выберите какую версию OmegaT вы хотите загрузить: с или без Java Runtime Environment (JRE).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211257Z" creationid="abashkinl" creationdate="20170315T183327Z">
+        <seg>Выберите, какую версию OmegaT вы хотите загрузить: со средой исполнения Java (Java Runtime Environment — JRE) или без нее.</seg>
       </tuv>
     </tu>
     <tu>
