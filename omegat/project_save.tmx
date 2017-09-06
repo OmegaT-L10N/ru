@@ -1400,6 +1400,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213207Z" creationid="Kos Ivantsov" creationdate="20170906T213207Z">
+        <seg>(В отличие от программ, выполняющих «машинный перевод», OmegaT лишь помогает переводчику и упрощает его работу.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T193634Z" creationid="abashkinl" creationdate="20170318T193634Z">
@@ -1896,6 +1904,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>&lt;нет&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213507Z" creationid="Kos Ivantsov" creationdate="20170906T213507Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — это свободная система автоматизированного перевода, поддерживающая память переводов, написанная на языке программирования Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213359Z" creationid="Kos Ivantsov" creationdate="20170906T213359Z">
+        <seg>Для загрузки доступно несколько версий &lt;s0&gt;OmegaT&lt;/s0&gt;, из которых пользователь может выбрать соответствующую его требованиям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11832,6 +11856,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213331Z" creationid="Kos Ivantsov" creationdate="20170906T213331Z">
+        <seg>Профессиональные функции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming (Java)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T200240Z" creationid="abashkinl" creationdate="20170311T200240Z">
@@ -18596,6 +18628,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T224526Z" creationid="abashkinl" creationdate="20170311T224526Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213457Z" creationid="Kos Ivantsov" creationdate="20170906T213457Z">
+        <seg>https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g</seg>
       </tuv>
     </tu>
     <tu>
