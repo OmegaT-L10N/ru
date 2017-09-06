@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_a39e26ecf" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_f8ab3af0f" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8340,8 +8340,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T143131Z" creationid="abashkinl" creationdate="20161012T131636Z">
-        <seg>ошибки LanguageTool</seg>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T065952Z" creationid="abashkinl" creationdate="20161012T131636Z">
+        <seg>Ошибки LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -14142,6 +14142,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Переменные шаблона:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070011Z" creationid="abashkinl" creationdate="20170906T070011Z">
+        <seg>Ошибки терминологии</seg>
       </tuv>
     </tu>
     <tu>
