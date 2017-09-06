@@ -1670,6 +1670,14 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212828Z" creationid="Kos Ivantsov" creationdate="20170906T212828Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -1680,6 +1688,30 @@ The current setting is {0}MB;</seg>
 указав "java -Xmx&lt;размер-в-МБ&gt;M -jar OmegaT.jar" в
 командной строке или в скрипте запуска OmegaT.
 В данный момент доступно {0} МБ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212830Z" creationid="Kos Ivantsov" creationdate="20170906T212830Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212832Z" creationid="Kos Ivantsov" creationdate="20170906T212832Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212834Z" creationid="Kos Ivantsov" creationdate="20170906T212834Z">
+        <seg>4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,8 +1918,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T074914Z" creationid="abashkinl" creationdate="20170312T074914Z">
-        <seg>«Переведённый» «External View»-файл можно получить, просто введя сегменты перевода в этот столбец.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212823Z" creationid="abashkinl" creationdate="20170312T074914Z">
+        <seg>«Переведённый» файл «External View» можно получить, просто введя сегменты перевода в этот столбец.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,6 +1928,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T162800Z" creationid="abashkinl" creationdate="20170317T162800Z">
         <seg>Также доступен &lt;a0&gt;HowTo, описывающий плагин токенизации&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212752Z" creationid="Kos Ivantsov" creationdate="20170906T212752Z">
+        <seg>Файл Déjà Vu «External View» представляет собой файл RTF, внутри которого содержится таблица из нескольких столбцов, включая столбцы для оригинального и переведённого текстов. Каждый сегмент текста находится в отдельной ячейке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2216,6 +2256,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T072654Z" creationid="abashkinl" creationdate="20170312T072654Z">
         <seg>HowTo по дополнительным функциям OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212858Z" creationid="Kos Ivantsov" creationdate="20170906T212858Z">
+        <seg>После того, как вы закончите перевод и создадите переведённые документы, скопируйте столбец переведённых сегментов из переведённого файла в столбец &lt;i0&gt;переведённых сегментов&lt;/i0&gt; исходного документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7608,8 +7656,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T074858Z" creationid="abashkinl" creationdate="20170312T074858Z">
-        <seg>Если «External View»-файл ещё не переведён, столбец для переведённых сегментов пуст.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212805Z" creationid="abashkinl" creationdate="20170312T074858Z">
+        <seg>Если файл «External View» ещё не переведён, столбец для переведённых сегментов пуст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7778,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T091602Z" creationid="abashkinl" creationdate="20170312T083729Z">
         <seg>В диалоговом окне «Параметры &gt; Проверка правописания» выберите какую-нибудь папку на жёстком диске, или создайте новую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212727Z" creationid="Kos Ivantsov" creationdate="20170906T212727Z">
+        <seg>Точно так же пользователи других систем автоматизированного перевода (например, OmegaT) могут переводить созданные в Déjà Vu файлы без использования этой программы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8186,6 +8242,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T184834Z" creationid="abashkinl" creationdate="20170106T184834Z">
         <seg>OmegaT не переводит вместо человека!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212723Z" creationid="Kos Ivantsov" creationdate="20170906T212723Z">
+        <seg>Благодаря этому формату редакторы, у которых не установлена Déjà Vu, могут корректировать переводы таким образом, чтобы их правки можно было легко импортировать обратно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +14838,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T212949Z" creationid="abashkinl" creationdate="20170106T212949Z">
         <seg>Версия из /trunk (альфа-версия) отражает наиболее актуальное состояние процесса разработки программы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212716Z" creationid="Kos Ivantsov" creationdate="20170906T212716Z">
+        <seg>Формат «External View» поддерживается программой Déjà Vu DVX.</seg>
       </tuv>
     </tu>
     <tu>
