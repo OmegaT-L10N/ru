@@ -10381,8 +10381,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211116Z" creationid="Kos Ivantsov" creationdate="20170906T211026Z">
-        <seg>Для работы OmegaT требуется JRE (среда исполнения Java) версии 1.6 или более новая.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211219Z" creationid="Kos Ivantsov" creationdate="20170906T211026Z">
+        <seg>Для работы OmegaT требуется JRE версии 1.6 или более новая.</seg>
       </tuv>
     </tu>
     <tu>
