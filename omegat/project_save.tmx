@@ -18799,5 +18799,16 @@ create its configuration folder.</seg>
         <seg>Комбинация</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">standard</prop>
+      <prop type="next">The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</prop>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212057Z" creationid="Kos Ivantsov" creationdate="20170906T212057Z">
+        <seg>Стандартная</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
