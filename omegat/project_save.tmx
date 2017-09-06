@@ -9519,6 +9519,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213103Z" creationid="Kos Ivantsov" creationdate="20170906T213103Z">
+        <seg>MediaWiki (Wikipedia);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -9547,6 +9555,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T180303Z" creationid="abashkinl" creationdate="20170104T180303Z">
         <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213045Z" creationid="Kos Ivantsov" creationdate="20170906T213045Z">
+        <seg>Microsoft Word, Excel, Power;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,6 +10927,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213058Z" creationid="Kos Ivantsov" creationdate="20170906T213058Z">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T140806Z" creationid="abashkinl" creationdate="20161011T083132Z">
@@ -11335,6 +11359,14 @@ everything.</seg>
         <seg>Скопируйте исходные файлы
 в ./source и дополнительные файлы в ./tm, ./glossary, и ./dictionary, если это
 требуется, а затем зафиксируйте изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213123Z" creationid="Kos Ivantsov" creationdate="20170906T213123Z">
+        <seg>неформатированный текст;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18028,6 +18060,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213035Z" creationid="Kos Ivantsov" creationdate="20170906T213035Z">
+        <seg>Поддержка более 30 форматов файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18112,6 +18152,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Параметры фильтра XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213048Z" creationid="Kos Ivantsov" creationdate="20170906T212935Z">
+        <seg>XHTML и HTML;</seg>
       </tuv>
     </tu>
     <tu>
