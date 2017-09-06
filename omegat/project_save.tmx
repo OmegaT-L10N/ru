@@ -1400,6 +1400,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T095029Z" creationid="Lev Abashkin" creationdate="20170906T095029Z">
+        <seg>(Вы всё ещё сможете использовать
+OmegaT 3.6 для работы с этим проектом
+в командном режиме.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1949,6 +1960,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T161124Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Aвто&amp;завершение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094233Z" creationid="Lev Abashkin" creationdate="20170906T094233Z">
+        <seg>ANTLR (лицензия ANTLR 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2533,6 +2552,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T193543Z" creationid="abashkinl" creationdate="20170318T193543Z">
         <seg>Ещё одним возможным источников проблем совместимости могут выступать языковые коды, состоящие из трёх цифр, которые никак не поддерживаются в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094353Z" creationid="Lev Abashkin" creationdate="20170906T094353Z">
+        <seg>Apache Commons (лицензия Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,6 +3723,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T093942Z" creationid="Lev Abashkin" creationdate="20170906T093602Z">
+        <seg>Зафиксировать файлы оригинала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4540,6 +4575,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094105Z" creationid="Lev Abashkin" creationdate="20170906T094105Z">
+        <seg>DictZip из JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T153028Z" creationid="abashkinl" creationdate="20161012T153028Z">
@@ -4624,6 +4667,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T205044Z" creationid="abashkinl" creationdate="20170311T205044Z">
         <seg>Дидье Брейль (Didier Briel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094322Z" creationid="Lev Abashkin" creationdate="20170906T094322Z">
+        <seg>Diff (лицензия GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5964,6 +6015,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source file!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T093731Z" creationid="Lev Abashkin" creationdate="20170906T093650Z">
+        <seg>Не удалось зафиксировать файл оригинала!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -6772,6 +6831,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094137Z" creationid="Lev Abashkin" creationdate="20170906T094137Z">
+        <seg>Groovy (лицензия Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -6824,6 +6891,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Сегментация файлов HTML, XHTML, ODF и Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094523Z" creationid="Lev Abashkin" creationdate="20170906T094523Z">
+        <seg>HTMLParser 1.6 от Сомика Раха, Деррика Освальда и других (лицензия LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7813,8 +7888,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T085324Z" creationid="Lev Abashkin" creationdate="20170906T085324Z">
-        <seg>Вставить текст &amp;источника</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T093954Z" creationid="Lev Abashkin" creationdate="20170906T085324Z">
+        <seg>Вставить текст &amp;оригинала</seg>
       </tuv>
     </tu>
     <tu>
@@ -8276,6 +8351,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094305Z" creationid="Lev Abashkin" creationdate="20170906T094305Z">
+        <seg>JSch (лицензия JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -8344,6 +8427,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T081337Z" creationid="abashkinl" creationdate="20170317T081337Z">
         <seg>Жан-Кристоф Хелари (Jean-Christophe Helary)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094157Z" creationid="Lev Abashkin" creationdate="20170906T094157Z">
+        <seg>Jmyspell (лицензия LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,6 +8563,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T143140Z" creationid="abashkinl" creationdate="20170104T143140Z">
         <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094404Z" creationid="Lev Abashkin" creationdate="20170906T094404Z">
+        <seg>LanguageTool (лицензия LGPL и другие)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,6 +9051,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Журнал:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094344Z" creationid="Lev Abashkin" creationdate="20170906T094344Z">
+        <seg>Lucene (лицензия Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10304,6 +10411,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094933Z" creationid="Lev Abashkin" creationdate="20170906T094933Z">
+        <seg>Обнаружен командный проект в формате 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T202901Z" creationid="abashkinl" creationdate="20170316T202901Z">
@@ -10952,6 +11067,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Файлы PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094414Z" creationid="Lev Abashkin" creationdate="20170906T094414Z">
+        <seg>PDFBox (лицензия Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12629,6 +12752,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094242Z" creationid="Lev Abashkin" creationdate="20170906T094242Z">
+        <seg>SQLJet (лицензия GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12657,6 +12788,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>SVN «{0}» выполнение начато</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094206Z" creationid="Lev Abashkin" creationdate="20170906T094206Z">
+        <seg>SVNKit (лицензия TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13294,6 +13433,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094222Z" creationid="Lev Abashkin" creationdate="20170906T094222Z">
+        <seg>Sequence Library (лицензия Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -13758,6 +13905,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T093724Z" creationid="Lev Abashkin" creationdate="20170906T093724Z">
+        <seg>Файлы оригинала зафиксированы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -14030,6 +14185,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094858Z" creationid="Lev Abashkin" creationdate="20170906T094858Z">
+        <seg>Ключ подписки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T151139Z" creationid="abashkinl" creationdate="20170104T151139Z">
@@ -14050,6 +14213,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T093317Z" creationid="abashkinl" creationdate="20170312T093317Z">
         <seg>Команды, относящиеся к переводу неуникальных сегментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094431Z" creationid="Lev Abashkin" creationdate="20170906T094431Z">
+        <seg>SuperTMXMerge (лицензия Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,6 +14565,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Переменные шаблона:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T095118Z" creationid="Lev Abashkin" creationdate="20170906T095118Z">
+        <seg>Терминология</seg>
       </tuv>
     </tu>
     <tu>
@@ -14914,6 +15093,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T095146Z" creationid="Lev Abashkin" creationdate="20170906T095146Z">
+        <seg>Файл "{0}" не поддерживается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file is commented to help you.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T162046Z" creationid="abashkinl" creationdate="20170315T162046Z">
@@ -15239,6 +15426,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T153336Z" creationid="abashkinl" creationdate="20161012T153336Z">
         <seg>Указанная папка для хранения словарей не существует.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T095158Z" creationid="Lev Abashkin" creationdate="20170906T095158Z">
+        <seg>Указанные файлы не поддерживаются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17249,6 +17444,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094148Z" creationid="Lev Abashkin" creationdate="20170906T094148Z">
+        <seg>VLDocking Framework (лицензия LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -17413,6 +17616,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120257Z" creationid="Kos Ivantsov" creationdate="20170905T120257Z">
         <seg>Запрашиваемая страница не найдена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094659Z" creationid="Lev Abashkin" creationdate="20170906T094659Z">
+        <seg>Субтитры WebVTT</seg>
       </tuv>
     </tu>
     <tu>
@@ -17995,6 +18206,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094651Z" creationid="Lev Abashkin" creationdate="20170906T094651Z">
+        <seg>Субтитры YouTube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18199,6 +18418,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094314Z" creationid="Lev Abashkin" creationdate="20170906T094314Z">
+        <seg>jsch-agent-proxy (лицензия jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094110Z" creationid="Lev Abashkin" creationdate="20170906T094110Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18211,6 +18446,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>загружено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094058Z" creationid="Lev Abashkin" creationdate="20170906T094058Z">
+        <seg>mALIGNa (лицензия MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18247,6 +18490,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094126Z" creationid="Lev Abashkin" creationdate="20170906T094126Z">
+        <seg>slf4j (лицензия MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T194353Z" creationid="abashkinl" creationdate="20170318T194353Z">
@@ -18275,6 +18526,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T074001Z" creationid="abashkinl" creationdate="20170312T073828Z">
         <seg>индустрии перевода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094047Z" creationid="Lev Abashkin" creationdate="20170906T094047Z">
+        <seg>trie4j (лицензия Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094334Z" creationid="Lev Abashkin" creationdate="20170906T094334Z">
+        <seg>trilead-ssh2 (лицензия Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
