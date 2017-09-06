@@ -16268,8 +16268,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211155Z" creationid="abashkinl" creationdate="20170315T174208Z">
-        <seg>Чтобы узнать, какая версия JRE установлена в вашей системе GNU/Linux (если вообще), откройте консоль (окно терминала для ввода команд) и напечатайте:</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211405Z" creationid="abashkinl" creationdate="20170315T174208Z">
+        <seg>Чтобы узнать, установлена ли JRE в вашей системе GNU/Linux и какой версии, откройте консоль (окно терминала для ввода команд) и напечатайте:</seg>
       </tuv>
     </tu>
     <tu>
