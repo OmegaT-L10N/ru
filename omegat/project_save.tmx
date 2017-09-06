@@ -10935,6 +10935,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T210845Z" creationid="Kos Ivantsov" creationdate="20170906T210845Z">
+        <seg>Операционная система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Operating systems</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T085309Z" creationid="abashkinl" creationdate="20170316T085309Z">
