@@ -18781,6 +18781,16 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">POFILTER_FORMAT_STANDARD</prop>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212044Z" creationid="Kos Ivantsov" creationdate="20170906T212044Z">
+        <seg>Стандартный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">PREFS_EXTERNALFINDER_COL_KEYSTROKE</prop>
       <tuv lang="EN">
         <seg>Shortcut</seg>
