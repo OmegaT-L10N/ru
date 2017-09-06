@@ -4865,6 +4865,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070733Z" creationid="abashkinl" creationdate="20170906T070733Z">
+        <seg>Не спрашивать перед проверкой ошибок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070115Z" creationid="abashkinl" creationdate="20170906T070115Z">
+        <seg>Не спрашивать перед проверкой ошибок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T201258Z" creationid="abashkinl" creationdate="20170311T201258Z">
@@ -7085,6 +7101,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T192859Z" creationid="abashkinl" creationdate="20170105T191633Z">
         <seg>Если сомневаетесь, выбирайте её.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070627Z" creationid="abashkinl" creationdate="20170906T070627Z">
+        <seg>Если поиск ошибок слишком медленный, попробуйте отключить неважные типы ошибок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12914,6 +12938,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070140Z" creationid="abashkinl" creationdate="20170906T070140Z">
+        <seg>Выберите типы ошибок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -13006,6 +13038,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T153258Z" creationid="abashkinl" creationdate="20170312T153258Z">
         <seg>В зависимости от установленной версии Java (см. выше), выберите версию с или без JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070522Z" creationid="abashkinl" creationdate="20170906T070522Z">
+        <seg>Отметьте типы ошибок для поиска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13668,8 +13708,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T143124Z" creationid="abashkinl" creationdate="20161012T142025Z">
-        <seg>ошибки орфографии</seg>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070711Z" creationid="abashkinl" creationdate="20161012T142025Z">
+        <seg>Ошибки орфографии</seg>
       </tuv>
     </tu>
     <tu>
@@ -13990,6 +14030,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Тег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070646Z" creationid="abashkinl" creationdate="20170906T070646Z">
+        <seg>Ошибки с тегами</seg>
       </tuv>
     </tu>
     <tu>
