@@ -10371,6 +10371,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211026Z" creationid="Kos Ivantsov" creationdate="20170906T211026Z">
+        <seg>Для работы OmegaT требуется JRE версии 1.6 или более новой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T164921Z" creationid="abashkinl" creationdate="20170315T164921Z">
