@@ -15882,6 +15882,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212707Z" creationid="Kos Ivantsov" creationdate="20170906T212707Z">
+        <seg>Это можно сделать (для Déjà Vu DVX), используя формат Déjà Vu «External Views».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T202453Z" creationid="abashkinl" creationdate="20170318T202453Z">
