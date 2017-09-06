@@ -6431,6 +6431,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T210904Z" creationid="Kos Ivantsov" creationdate="20170906T210904Z">
+        <seg>Для установки в Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T182549Z" creationid="abashkinl" creationdate="20170315T182549Z">
@@ -17768,6 +17776,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Ветер подхватывает лилию,&lt;p&gt;Разбрасывая лепестки по ветру:&lt;p&gt;Запрашиваемая страница не найдена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T210854Z" creationid="Kos Ivantsov" creationdate="20170906T210854Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
