@@ -10797,6 +10797,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170912T202205Z" creationid="Kos Ivantsov" creationdate="20170912T202205Z">
+        <seg>В OmegaT используется несколько сторонних библиотек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
