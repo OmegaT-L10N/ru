@@ -7762,6 +7762,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124535Z" creationid="Kos Ivantsov" creationdate="20170918T124535Z">
+        <seg>Если программа OmegaT оказалась для вас полезной, то вы можете выразить свою благодарность в виде &lt;a0&gt;пожертвования&lt;/a0&gt; на наш счет Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T170007Z" creationid="abashkinl" creationdate="20170315T170007Z">
