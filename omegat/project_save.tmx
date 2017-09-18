@@ -6907,6 +6907,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123919Z" creationid="Kos Ivantsov" creationdate="20170918T123919Z">
+        <seg>Начало работы в OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T143127Z" creationid="abashkinl" creationdate="20170104T143127Z">
@@ -19422,6 +19430,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>{1}, выполнено из '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123913Z" creationid="Kos Ivantsov" creationdate="20170918T123913Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
