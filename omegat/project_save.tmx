@@ -7051,6 +7051,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123618Z" creationid="Kos Ivantsov" creationdate="20170918T123618Z">
+        <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T153023Z" creationid="abashkinl" creationdate="20170104T153023Z">
