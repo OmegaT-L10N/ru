@@ -17922,6 +17922,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123506Z" creationid="Kos Ivantsov" creationdate="20170918T123506Z">
+        <seg>Онлайн руководство пользователя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170108T120651Z" creationid="abashkinl" creationdate="20170108T120651Z">
