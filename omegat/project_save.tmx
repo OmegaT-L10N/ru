@@ -2502,8 +2502,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T134546Z" creationid="Kos Ivantsov" creationdate="20170918T134546Z">
-        <seg>Если же вы точно знаете, какую именно версию загрузить, нажмите кнопку, чтобы просмотреть имеющиеся варианты загрузки.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T134628Z" creationid="Kos Ivantsov" creationdate="20170918T134546Z">
+        <seg>Если же вы точно знаете, какая именно версия вам нужно, нажмите кнопку, чтобы просмотреть имеющиеся варианты загрузки и выбрать необходимый.</seg>
       </tuv>
     </tu>
     <tu>
