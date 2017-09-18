@@ -11661,6 +11661,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123348Z" creationid="Kos Ivantsov" creationdate="20170918T123348Z">
+        <seg>По вопросам, не упомянутым выше, обращайтесь к &lt;a0&gt;менеджеру проекта OmegaT&lt;/a0&gt;.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
