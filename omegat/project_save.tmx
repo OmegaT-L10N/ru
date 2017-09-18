@@ -1352,8 +1352,8 @@
       <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T064829Z" creationid="abashkinl" creationdate="20170312T064829Z">
-        <seg> (на итальянском языке).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123659Z" creationid="abashkinl" creationdate="20170312T064829Z">
+        <seg>(на итальянском языке).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,8 +3285,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T064825Z" creationid="abashkinl" creationdate="20170312T064825Z">
-        <seg>От Марко Чеволи и Сергио Аласиа</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123657Z" creationid="abashkinl" creationdate="20170312T064825Z">
+        <seg>Авторы: Марко Чеволи и Сергио Аласиа (Marco Cevoli and Sergio Alasia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7087,6 +7087,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094137Z" creationid="Lev Abashkin" creationdate="20170906T094137Z">
         <seg>Groovy (лицензия Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123640Z" creationid="Kos Ivantsov" creationdate="20170918T123640Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
