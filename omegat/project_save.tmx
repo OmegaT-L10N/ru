@@ -5217,6 +5217,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124044Z" creationid="Kos Ivantsov" creationdate="20170918T124044Z">
+        <seg>Загрузка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T140711Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
