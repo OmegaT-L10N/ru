@@ -7411,6 +7411,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123559Z" creationid="Kos Ivantsov" creationdate="20170918T123559Z">
+        <seg>Iceni Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T142254Z" creationid="abashkinl" creationdate="20170317T142254Z">
