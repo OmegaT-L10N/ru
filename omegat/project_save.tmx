@@ -1932,6 +1932,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T134635Z" creationid="Kos Ivantsov" creationdate="20170918T134635Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Стандартная версия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213507Z" creationid="Kos Ivantsov" creationdate="20170906T213507Z">
