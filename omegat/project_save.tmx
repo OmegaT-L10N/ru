@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10089M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_bf8d6ef0d" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -162,6 +162,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>&amp;Применить этот шрифт в таблицах (перечень файлов проекта, статистика и т. п.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075125Z" creationid="Lev Abashkin" creationdate="20170918T075125Z">
+        <seg>&amp;Применить ко всем</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,6 +1868,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075553Z" creationid="Lev Abashkin" creationdate="20170918T075553Z">
+        <seg>&lt;html&gt;&lt;i&gt;Настройки&lt;/i&gt; &amp;gt; &lt;i&gt;Основные&lt;/i&gt; &amp;gt; &lt;i&gt;Использовать TAB для перехода&lt;/i&gt; сейчас отмечено&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -2468,6 +2484,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080626Z" creationid="Lev Abashkin" creationdate="20170918T080626Z">
+        <seg>Альтернативный язык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T195353Z" creationid="abashkinl" creationdate="20170311T195353Z">
@@ -2560,6 +2584,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>При попытке запуска процесса в консоли произошла ошибка: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075259Z" creationid="Lev Abashkin" creationdate="20170918T075259Z">
+        <seg>Существующий перевод изменился по сравнению с тем, что вы выбрали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,6 +3767,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080146Z" creationid="Lev Abashkin" creationdate="20170918T080146Z">
+        <seg>Закрыть запущенную копию OmegaT
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4167,6 +4209,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080119Z" creationid="Lev Abashkin" creationdate="20170918T080119Z">
+        <seg>Скопировать файл &lt;project&gt;/omegat/project_save.tmx в надёжное место.
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T140746Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4211,6 +4263,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T120006Z" creationid="abashkinl" creationdate="20170318T120006Z">
         <seg>Copyright Милан Губачек и Марк Прайор 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081608Z" creationid="Lev Abashkin" creationdate="20170918T081608Z">
+        <seg>Copyright © 2000-2017 Кит Годфри, Максим Михальчук и другие</seg>
       </tuv>
     </tu>
     <tu>
@@ -5219,6 +5279,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Повторяющиеся сегменты: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080021Z" creationid="Lev Abashkin" creationdate="20170918T080021Z">
+        <seg>При ошибке SVN ({0}),
+project_save.tmx не был выгружен и SVN переключилась в нестабильное состояние.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6907,6 +6977,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Перейти к исходному сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080451Z" creationid="Lev Abashkin" creationdate="20170918T080451Z">
+        <seg>Ключ Google Api не доступен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9599,6 +9677,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080602Z" creationid="Lev Abashkin" creationdate="20170918T080602Z">
+        <seg>Ключ подписки Microsoft Translator не доступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Word, Excel, Power</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213045Z" creationid="Kos Ivantsov" creationdate="20170906T213045Z">
@@ -10459,6 +10545,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080429Z" creationid="Lev Abashkin" creationdate="20170918T080429Z">
+        <seg>OmegaT Javadoc…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -10619,6 +10713,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081225Z" creationid="Lev Abashkin" creationdate="20170918T081225Z">
+        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода CAT (Computer Aided Translation, перевод с помощью компьютера), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T194716Z" creationid="abashkinl" creationdate="20170318T194716Z">
@@ -10689,6 +10791,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170108T120707Z" creationid="abashkinl" creationdate="20170108T120707Z">
         <seg>Вместе с OmegaT поставляется подробное руководство пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081304Z" creationid="Lev Abashkin" creationdate="20170918T081304Z">
+        <seg>OmegaT была создана Китом Годфри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12520,6 +12630,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080159Z" creationid="Lev Abashkin" creationdate="20170918T080159Z">
+        <seg>Вручную удалить папку проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12580,6 +12698,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T150402Z" creationid="abashkinl" creationdate="20170104T150402Z">
         <seg>&amp;Заменять совпадения с глоссарием при вставке исходного текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080351Z" creationid="Lev Abashkin" creationdate="20170918T080351Z">
+        <seg>Заменить &lt;project&gt;/omegat/project_save.tmx в только что скачанном проекте файлом, который вы сохранили до этого.
+6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13297,6 +13425,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080538Z" creationid="Lev Abashkin" creationdate="20170918T080538Z">
+        <seg>Обратитесь к руководству OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T152915Z" creationid="abashkinl" creationdate="20161012T152915Z">
@@ -13985,6 +14121,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075751Z" creationid="Lev Abashkin" creationdate="20170918T075751Z">
+        <seg>Что-то пошло не так. Пожалуйста, обратитесь за подробностями к Tilde Terminology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120423Z" creationid="Kos Ivantsov" creationdate="20170905T120423Z">
@@ -14304,12 +14448,29 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T215608Z" creationid="abashkinl" creationdate="20170106T215608Z">
-        <seg>Стандартная</seg>
+      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Стандартный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080300Z" creationid="Lev Abashkin" creationdate="20170918T080300Z">
+        <seg>Снова запустить OmegaT, скачать командный проект, закрыть OmegaT
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080408Z" creationid="Lev Abashkin" creationdate="20170918T080408Z">
+        <seg>Запустить OmegaT и продолжить перевод</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,6 +14735,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T213521Z" creationid="abashkinl" creationdate="20170318T213521Z">
         <seg>TTX — это формат, основанный на XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075638Z" creationid="Lev Abashkin" creationdate="20170918T075638Z">
+        <seg>TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -15663,6 +15832,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075824Z" creationid="Lev Abashkin" creationdate="20170918T075824Z">
+        <seg>Указанный командный проект использует формат OmegaT 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -16439,6 +16616,16 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T163550Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Например, правила для канадского французского (FR-CA) будут иметь более высокий приоритет, чем правила для французского (FR.*) и правила по умолчанию (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080049Z" creationid="Lev Abashkin" creationdate="20170918T080049Z">
+        <seg>Чтобы перевод не был потерян, вам нужно:
+1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17805,6 +17992,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T080232Z" creationid="Lev Abashkin" creationdate="20170918T080232Z">
+        <seg>ВНИМАНИЕ: все несохранённые данные будут потеряны
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T152915Z" creationid="abashkinl" creationdate="20161012T152915Z">
@@ -18927,6 +19124,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Количество сегментов: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075624Z" creationid="Lev Abashkin" creationdate="20170918T075624Z">
+        <seg>{0} переключает ориентацию текста (слева направо, справа налево, в зависимости от языка)</seg>
       </tuv>
     </tu>
     <tu>
