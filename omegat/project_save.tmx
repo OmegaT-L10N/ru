@@ -2588,6 +2588,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082808Z" creationid="Lev Abashkin" creationdate="20170918T082808Z">
+        <seg>При обработке файла TMX произошла ошибка
+{0}
+Файл TMX не будет загружен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T075259Z" creationid="Lev Abashkin" creationdate="20170918T075259Z">
@@ -3785,6 +3797,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081706Z" creationid="Lev Abashkin" creationdate="20170918T081706Z">
+        <seg>В написании кода принимали участие:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T142745Z" creationid="abashkinl" creationdate="20170104T142745Z">
@@ -3881,6 +3903,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Не удалось зафиксировать изменения, так как кто-то другой изменил удаленный перевод.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082206Z" creationid="Lev Abashkin" creationdate="20170918T082206Z">
+        <seg>Фиксация файлов оригинала</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,6 +4861,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T205044Z" creationid="abashkinl" creationdate="20170311T205044Z">
         <seg>Дидье Брейль (Didier Briel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081924Z" creationid="Lev Abashkin" creationdate="20170918T081924Z">
+        <seg>Менеджер проекта OmegaT — Дидье Бриель.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,6 +6123,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T084847Z" creationid="Lev Abashkin" creationdate="20170918T084847Z">
+        <seg>Внешние ссыл&amp;ки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T132345Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -6225,6 +6271,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Не удалось загрузить память переводов {0}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082032Z" creationid="Lev Abashkin" creationdate="20170918T082032Z">
+        <seg>Произошла критическая ошибка - сохраняем резервную копию проекта с расширением '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8128,6 +8182,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T180456Z" creationid="abashkinl" creationdate="20170312T180456Z">
         <seg>Установка OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082314Z" creationid="Lev Abashkin" creationdate="20170918T082314Z">
+        <seg>Установка и запуск OmegaT".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11561,6 +11623,28 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082040Z" creationid="Lev Abashkin" creationdate="20170918T082040Z">
+        <seg>Прочтите в документации раздел о возможностях восстановления и отправьте информацию, представленную ниже, производителю программы. Приложите описание того, как случилась эта ошибка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082955Z" creationid="Lev Abashkin" creationdate="20170918T082955Z">
+        <seg>Обратитесь к журналу
+({1})
+для определения причины ошибки и попробуйте снова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -13404,6 +13488,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T163001Z" creationid="abashkinl" creationdate="20170104T163001Z">
         <seg>Защищённое хранилище</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082302Z" creationid="Lev Abashkin" creationdate="20170918T082302Z">
+        <seg>Смотрите в руководстве пользователя "Глава 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,6 +15372,16 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Загрузка файла TMX будет продолжена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T084716Z" creationid="Lev Abashkin" creationdate="20170918T084716Z">
+        <seg>Файл TMX не будет загружен.
+Пожалуйста, попробуйте исправить ошибку и перезагрузить проект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17540,6 +17642,18 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T171042Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Неизвестный тип дополнения '{0}' в '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T084821Z" creationid="Lev Abashkin" creationdate="20170918T084821Z">
+        <seg>Критическая ошибка при обработке файла TMX
+{0}
+строка {1}, позиция {2}.</seg>
       </tuv>
     </tu>
     <tu>
