@@ -14799,6 +14799,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124121Z" creationid="Kos Ivantsov" creationdate="20170918T124121Z">
+        <seg>Такой вспомогательный код, например, уже был написан на Javascript, Groovy и Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T193914Z" creationid="abashkinl" creationdate="20170104T193914Z">
