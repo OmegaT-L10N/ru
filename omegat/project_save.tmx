@@ -11984,6 +11984,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124020Z" creationid="Kos Ivantsov" creationdate="20170918T124020Z">
+        <seg>Эффективные инструменты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T135502Z" creationid="abashkinl" creationdate="20161012T135502Z">
