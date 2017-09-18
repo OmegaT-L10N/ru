@@ -16094,6 +16094,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format (OmegaT version 3.6.0 update 5).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123546Z" creationid="Kos Ivantsov" creationdate="20170918T123546Z">
+        <seg>Руководство пользователя для OmegaT в формате PDF (OmegaT версии 3.6.0_5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T192854Z" creationid="abashkinl" creationdate="20170105T191403Z">
