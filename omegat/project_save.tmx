@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10090M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_110b01e89" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15097,8 +15097,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170906T070646Z" creationid="abashkinl" creationdate="20170906T070646Z">
-        <seg>Ошибки с тегами</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170923T134520Z" creationid="abashkinl" creationdate="20170906T070646Z">
+        <seg>Ошибки тегов</seg>
       </tuv>
     </tu>
     <tu>
