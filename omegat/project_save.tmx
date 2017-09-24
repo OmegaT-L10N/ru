@@ -2358,10 +2358,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170853Z" creationid="Lev Abashkin" creationdate="20170924T170853Z">
+        <seg>Добавлять номера ко всем сегментам, делая их "уникальными".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Добавлять или изменять объявление кодировки в файлах HTML и XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170822Z" creationid="Lev Abashkin" creationdate="20170924T170822Z">
+        <seg>Добавлять термины в глоссарий во время перевода в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3481,6 +3497,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170000Z" creationid="Lev Abashkin" creationdate="20170924T170000Z">
+        <seg>Автор: Шейла Гомес (на бразильском португальском языке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170108T121906Z" creationid="abashkinl" creationdate="20170108T121906Z">
@@ -3501,6 +3525,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T082437Z" creationid="abashkinl" creationdate="20170317T082437Z">
         <seg>Автор: Такаши Миямото (Takashi Miyamoto) (на япон.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T165813Z" creationid="Lev Abashkin" creationdate="20170924T165813Z">
+        <seg>Автор: Владимир Жданов (на русском языке).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3853,6 +3885,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Проверять простые &amp;шаблоны Java MessageFormat (например, {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170945Z" creationid="Lev Abashkin" creationdate="20170924T170945Z">
+        <seg>Проверять орфографию (различные процедуры).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4651,6 +4691,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Создать новый проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170759Z" creationid="Lev Abashkin" creationdate="20170924T170759Z">
+        <seg>Создавать файл TMX, содержащий все строки, с идентичными оригиналами и переводами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,6 +6573,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T065057Z" creationid="abashkinl" creationdate="20170312T065057Z">
         <seg>Сторонняя документация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170642Z" creationid="Lev Abashkin" creationdate="20170924T170642Z">
+        <seg>Извлекать весь оригинальный текст из проекта и сохранять его в большой текстовый файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11455,6 +11511,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T165426Z" creationid="Lev Abashkin" creationdate="20170924T165426Z">
+        <seg>OmegaT в Википедии &lt;s0&gt;25 языков&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T090109Z" creationid="Lev Abashkin" creationdate="20170906T090109Z">
@@ -11515,6 +11579,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T142602Z" creationid="abashkinl" creationdate="20170317T142602Z">
         <seg>Учебный курс по OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T171844Z" creationid="Lev Abashkin" creationdate="20170924T171844Z">
+        <seg>OmegaT использует "ID клиента" и "секрет клиента" из вашей учётной записи.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13192,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170150Z" creationid="Lev Abashkin" creationdate="20170924T170150Z">
+        <seg>Возможности OmegaT: первые шаги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T102743Z" creationid="abashkinl" creationdate="20170316T102743Z">
@@ -13308,6 +13388,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T092257Z" creationid="abashkinl" creationdate="20161011T092257Z">
         <seg>Удалить теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170918Z" creationid="Lev Abashkin" creationdate="20170924T170918Z">
+        <seg>Удалять весь текст кроме тегов, или все теги кроме текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14092,6 +14180,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T171040Z" creationid="Lev Abashkin" creationdate="20170924T171040Z">
+        <seg>Доступны скрипты/процедуры, которые могут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071042Z" creationid="Lev Abashkin" creationdate="20170924T071042Z">
@@ -14825,6 +14921,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T155858Z" creationid="abashkinl" creationdate="20170104T155858Z">
         <seg>Пропустить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170600Z" creationid="Lev Abashkin" creationdate="20170924T170600Z">
+        <seg>Пропускать сегменты, в которых содержится определённый набор символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20332,6 +20436,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123913Z" creationid="Kos Ivantsov" creationdate="20170918T123913Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T170009Z" creationid="Lev Abashkin" creationdate="20170924T170009Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
