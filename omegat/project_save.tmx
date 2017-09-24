@@ -14709,6 +14709,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T123019Z" creationid="Lev Abashkin" creationdate="20170924T123019Z">
+        <seg>Показать английскую версию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T154832Z" creationid="abashkinl" creationdate="20161011T154832Z">
@@ -16824,6 +16832,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T123213Z" creationid="Lev Abashkin" creationdate="20170924T123206Z">
+        <seg>Руководство пользователя OmegaT в формате PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T192854Z" creationid="abashkinl" creationdate="20170105T191403Z">
@@ -17424,6 +17440,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T082139Z" creationid="abashkinl" creationdate="20170316T082139Z">
         <seg>Теперь сегмент можно перевести по-другому, не затрагивая переводы остальных сегментов, идентичных ему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T123007Z" creationid="Lev Abashkin" creationdate="20170924T123007Z">
+        <seg>Этот сайт также доступен на английском языке!</seg>
       </tuv>
     </tu>
     <tu>
