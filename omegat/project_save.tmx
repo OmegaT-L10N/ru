@@ -4983,6 +4983,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T112721Z" creationid="Lev Abashkin" creationdate="20170924T112721Z">
+        <seg>Версия в разработке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T204307Z" creationid="abashkinl" creationdate="20170311T204307Z">
@@ -18634,6 +18642,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T213946Z" creationid="abashkinl" creationdate="20170311T213904Z">
         <seg>Пользователям разрешается свободно скачивать и использовать программу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T113045Z" creationid="Lev Abashkin" creationdate="20170924T113045Z">
+        <seg>Пользователи не готовые ждать могут загрузить неподписанную версию. Если у вас возникли трудности при запуске приложения, почитайте &lt;a0&gt;как запустить приложение неизвестного разработчика&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
