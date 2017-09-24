@@ -1990,6 +1990,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111405Z" creationid="Lev Abashkin" creationdate="20170924T111405Z">
+        <seg>&lt;s0&gt;Пользователям Linux&lt;/s0&gt;: большинство дистрибутивов Linux поставляются с Java Runtime Environment, однако некоторые реализации JRE с открытым исходным кодом не корректно работают с OmegaT (хотя сразу это может быть не очевидно).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111132Z" creationid="Lev Abashkin" creationdate="20170924T111132Z">
+        <seg>&lt;s0&gt;Пользователям Mac OS X&lt;/s0&gt;: JRE включена в версию для Mac OS X по умолчанию; версии без JRE для Mac OS X не существует.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213507Z" creationid="Kos Ivantsov" creationdate="20170906T213507Z">
@@ -2002,6 +2018,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213359Z" creationid="Kos Ivantsov" creationdate="20170906T213359Z">
         <seg>Для загрузки доступно несколько версий &lt;s0&gt;OmegaT&lt;/s0&gt;, из которых пользователь может выбрать соответствующую его требованиям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110104Z" creationid="Lev Abashkin" creationdate="20170924T110104Z">
+        <seg>&lt;s1&gt;Плюсы&lt;/s1&gt;: после установки все последующие обновления будут устанавливаться на ваш компьютер автоматически.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110157Z" creationid="Lev Abashkin" creationdate="20170924T110157Z">
+        <seg>&lt;s3&gt;Минусы&lt;/s3&gt;: на данный момент эта версия не поддерживает работу с плагинами, так что её функциональность может быть ограничена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3205,6 +3237,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T093017Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Бармен громко кричит:&lt;p&gt;Твоя страница не найдена, парень.&lt;p&gt;Закажи ещё стаканчик.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110355Z" creationid="Lev Abashkin" creationdate="20170924T110355Z">
+        <seg>Основываясь на ваших ответах, мы рекомендуем вам:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4907,6 +4947,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Детальный вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110617Z" creationid="Lev Abashkin" creationdate="20170924T110617Z">
+        <seg>Подробные инструкции</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,6 +7912,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110530Z" creationid="Lev Abashkin" creationdate="20170924T110530Z">
+        <seg>Если эта версия недоступна, вы можете попробовать &lt;a0&gt;загрузить неподписанную версию&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124156Z" creationid="Kos Ivantsov" creationdate="20170918T124156Z">
@@ -7876,6 +7932,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T201743Z" creationid="abashkinl" creationdate="20170106T201743Z">
         <seg>Если вы уверены, что подходящая версия JRE уже установлена на вашем компьютере, вы можете загрузить OmegaT без JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T105911Z" creationid="Lev Abashkin" creationdate="20170924T105911Z">
+        <seg>Если вы затрудняетесь с выбором версии для загрузки, вы можете воспользоваться &lt;a0&gt;выбором варианта загрузки&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8172,6 +8236,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T211335Z" creationid="abashkinl" creationdate="20170106T211335Z">
         <seg>Чтобы установить версию Web Start, на вашем компьютере уже должна стоять Java версии 1.3 или более поздняя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110955Z" creationid="Lev Abashkin" creationdate="20170924T110955Z">
+        <seg>Для своей работы OmegaT требует, чтобы на вашем компьютере была установлена Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,6 +9009,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T103336Z" creationid="Lev Abashkin" creationdate="20170924T103336Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094305Z" creationid="Lev Abashkin" creationdate="20170906T094305Z">
@@ -9329,6 +9409,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110651Z" creationid="Lev Abashkin" creationdate="20170924T110651Z">
+        <seg>Последняя версия - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch OmegaT</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T115809Z" creationid="abashkinl" creationdate="20170318T115809Z">
@@ -9677,6 +9765,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T210926Z" creationid="Kos Ivantsov" creationdate="20170906T210926Z">
         <seg>Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111646Z" creationid="Lev Abashkin" creationdate="20170924T111635Z">
+        <seg>Mac OS X включает в себя функциональность под названием Gatekeeper, которая усиливает безопасность, не позволяя запускать неподписанные программы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11093,6 +11189,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111902Z" creationid="Lev Abashkin" creationdate="20170924T111902Z">
+        <seg>OmegaT для Mac OS X доступна как в подписанном, так и в неподписанном вариантах. Функционально они не отличаются, однако подписанная версия более предпочтительна, так как система определяет её как созданную известным разработчиком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123257Z" creationid="Kos Ivantsov" creationdate="20170918T123257Z">
@@ -11977,6 +12081,14 @@ everything.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T213123Z" creationid="Kos Ivantsov" creationdate="20170906T213123Z">
         <seg>неформатированный текст;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110607Z" creationid="Lev Abashkin" creationdate="20170924T110607Z">
+        <seg>Платформа</seg>
       </tuv>
     </tu>
     <tu>
@@ -14541,6 +14653,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111505Z" creationid="Lev Abashkin" creationdate="20170924T111505Z">
+        <seg>Подписанная/Неподписанная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T203033Z" creationid="abashkinl" creationdate="20170104T203033Z">
@@ -15023,8 +15143,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Стандартный</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110328Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Стандартная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name '}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110556Z" creationid="Lev Abashkin" creationdate="20170924T110556Z">
+        <seg>Стандартная версия - {{site.data.versions.standard.name '}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16199,6 +16327,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110239Z" creationid="Lev Abashkin" creationdate="20170924T110239Z">
+        <seg>Поставляется с 64-разрядной версией JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T204304Z" creationid="abashkinl" creationdate="20170318T204304Z">
@@ -16628,6 +16764,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T223301Z" creationid="abashkinl" creationdate="20170311T222556Z">
         <seg>У проекта есть несколько мест, где пользователи могут вносить свои предложения по улучшению и влиять на курс дальнейшей разработки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T111923Z" creationid="Lev Abashkin" creationdate="20170924T111923Z">
+        <seg>Подписанные версии могут выходить с задержкой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18606,6 +18750,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T103328Z" creationid="Lev Abashkin" creationdate="20170924T103328Z">
+        <seg>Версия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18942,6 +19094,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T110535Z" creationid="abashkinl" creationdate="20170318T110535Z">
         <seg>Для пользователей Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T103403Z" creationid="Lev Abashkin" creationdate="20170924T103403Z">
+        <seg>С 64-разрядной JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -19728,6 +19888,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110403Z" creationid="Lev Abashkin" creationdate="20170924T110403Z">
+        <seg>какая-то версия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T194353Z" creationid="abashkinl" creationdate="20170318T194353Z">
@@ -19804,6 +19972,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T114328Z" creationid="abashkinl" creationdate="20170318T114328Z">
         <seg>где "XXXXXXXX" это ваш API-ключ переводчика Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110640Z" creationid="Lev Abashkin" creationdate="20170924T110640Z">
+        <seg>{% else %} &lt;a0&gt;Загрузить&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110630Z" creationid="Lev Abashkin" creationdate="20170924T110630Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Загрузить&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
