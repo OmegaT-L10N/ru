@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T083359Z" creationid="Lev Abashkin" creationdate="20170924T083359Z">
+        <seg>Сбросить &amp;настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T110859Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1314,6 +1322,16 @@
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>value (для &amp;элементов ввода форм, включая «button», «submit» и «reset»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T085730Z" creationid="Lev Abashkin" creationdate="20170924T085730Z">
+        <seg>«*» находит ноль и больше символов («run*» находит «run», «runs», «running» и т. д.)
+«?» находит точно один символ («run?» находит «runs» и «rung», но не «run» или «running»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,6 +1890,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T093538Z" creationid="abashkinl" creationdate="20170312T093538Z">
         <seg>&lt;b0&gt;Использовать как перевод по умолчанию&lt;/b0&gt;: делает перевод текущего сегмента переводом по умолчанию и использует его для всех подходящих идентичных сегментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074904Z" creationid="Lev Abashkin" creationdate="20170924T074904Z">
+        <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2608,6 +2634,66 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T141429Z" creationid="abashkinl" creationdate="20161012T141429Z">
         <seg>При открытии файла произошла ошибка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T080208Z" creationid="Lev Abashkin" creationdate="20170924T080208Z">
+        <seg>При обработке события изменения шрифта произошла ошибка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075956Z" creationid="Lev Abashkin" creationdate="20170924T075956Z">
+        <seg>При обработке события нового файла произошла ошибка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075750Z" creationid="Lev Abashkin" creationdate="20170924T075750Z">
+        <seg>При обработке события изменения проекта произошла ошибка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075846Z" creationid="Lev Abashkin" creationdate="20170924T075846Z">
+        <seg>При обработке события завершения приложения произошла ошибка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075820Z" creationid="Lev Abashkin" creationdate="20170924T075820Z">
+        <seg>При обработке события запуска приложения произошла ошибка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T080148Z" creationid="Lev Abashkin" creationdate="20170924T080148Z">
+        <seg>При обработке события активации нового элемента произошла ошибка:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3867,6 +3953,30 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T142259Z" creationid="abashkinl" creationdate="20170104T142259Z">
         <seg>Команда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T072736Z" creationid="Lev Abashkin" creationdate="20170924T072724Z">
+        <seg>Пустой разделитель команды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075035Z" creationid="Lev Abashkin" creationdate="20170924T075035Z">
+        <seg>Команда не содержит "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074952Z" creationid="Lev Abashkin" creationdate="20170924T074952Z">
+        <seg>У команды отсутствует разделитель</seg>
       </tuv>
     </tu>
     <tu>
@@ -5501,8 +5611,8 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T202658Z" creationid="abashkinl" creationdate="20170104T202658Z">
-        <seg>Редактировать запись внешнего поиска</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T072653Z" creationid="abashkinl" creationdate="20170104T202658Z">
+        <seg>Редактирование записи внешнего поиска</seg>
       </tuv>
     </tu>
     <tu>
@@ -5639,6 +5749,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T073939Z" creationid="Lev Abashkin" creationdate="20170906T073939Z">
         <seg>Включить внешние команды для отдельных проектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075453Z" creationid="Lev Abashkin" creationdate="20170924T075453Z">
+        <seg>Их можно включить в &lt;b&gt;Настройки &gt; Сохранение...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7111,6 +7229,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Перейти к исходному сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T073516Z" creationid="Lev Abashkin" creationdate="20170924T073516Z">
+        <seg>Их можно включить в меню «Настройки» &gt; «Внешний поиск».</seg>
       </tuv>
     </tu>
     <tu>
@@ -8715,6 +8841,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T073754Z" creationid="Lev Abashkin" creationdate="20170924T073754Z">
+        <seg>В записи нет ни одного сайта или команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T073632Z" creationid="Lev Abashkin" creationdate="20170924T073632Z">
+        <seg>Отсутствует название записи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -8911,6 +9053,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Текстовые файлы «Ключ=Значение»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T085938Z" creationid="Lev Abashkin" creationdate="20170924T085938Z">
+        <seg>Поиск по ключевым словам в этом случае не доступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T084555Z" creationid="Lev Abashkin" creationdate="20170924T084458Z">
+        <seg>Поиск по ключевым словам ищет все слова, указанные через пробел, вне зависимости от их порядка в тексте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10333,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T195817Z" creationid="abashkinl" creationdate="20170104T195817Z">
         <seg>Название:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T073806Z" creationid="Lev Abashkin" creationdate="20170924T073806Z">
+        <seg>Название: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12386,6 +12552,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T073253Z" creationid="Lev Abashkin" creationdate="20170924T073253Z">
+        <seg>Командны для отдельных проектов отключены из соображений безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12494,6 +12668,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Начало сохранения проекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T083931Z" creationid="Lev Abashkin" creationdate="20170924T083931Z">
+        <seg>Поиск в проекте по умолчанию охватывает оригинальные и переведённые файлы, связанные памяти перевода, глоссарии, примечания и комментарии проекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12766,6 +12948,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Регулярное выражение для фрагментов, которые следует удалить из перевода:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T085127Z" creationid="Lev Abashkin" creationdate="20170924T085127Z">
+        <seg>Регулярные выражения используют для поиска регулярные выражения Java. Их работа описана в руководстве пользователя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13560,6 +13750,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161024T162213Z" creationid="abashkinl" creationdate="20161024T162213Z">
         <seg>Файлы разметки Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T084250Z" creationid="Lev Abashkin" creationdate="20170924T083745Z">
+        <seg>Область поиска:
+По умолчанию областью поиска является проект, но она может быть изменена на файлы, находящиеся в указанной папке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14975,6 +15175,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T081252Z" creationid="Lev Abashkin" creationdate="20170924T081252Z">
+        <seg>Поменять местами {0} и {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switching to built-in version.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T153350Z" creationid="abashkinl" creationdate="20161012T153350Z">
@@ -15355,6 +15563,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Замена текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T085854Z" creationid="Lev Abashkin" creationdate="20170924T085854Z">
+        <seg>Замена текста:
+Областью замены текста являются сегменты перевода в проекте вне зависимости, есть ли в них содержимое или нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,6 +17832,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T084505Z" creationid="Lev Abashkin" creationdate="20170924T084246Z">
+        <seg>Типы поиска:
+Точный поиск ищет полные совпадения искомой строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 LocManager</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -17642,6 +17870,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T143057Z" creationid="abashkinl" creationdate="20170104T143057Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T075053Z" creationid="Lev Abashkin" creationdate="20170924T075053Z">
+        <seg>URL не содержит "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18508,6 +18744,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T090035Z" creationid="Lev Abashkin" creationdate="20170924T090035Z">
+        <seg>При использовании регулярных выражений строка замены не поддерживает ссылки на группы, указанные в строке поиска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T215146Z" creationid="abashkinl" creationdate="20170311T215146Z">
@@ -18576,6 +18820,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Файлы локализации WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T085304Z" creationid="Lev Abashkin" creationdate="20170924T085304Z">
+        <seg>Символы подстановки:
+Точный поиск и поиск по ключевым словам поддерживают символы подстановки * и ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19570,6 +19824,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074855Z" creationid="Lev Abashkin" creationdate="20170924T074855Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T144005Z" creationid="abashkinl" creationdate="20170104T144005Z">
@@ -19594,10 +19856,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074900Z" creationid="Lev Abashkin" creationdate="20170924T074900Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>×</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123913Z" creationid="Kos Ivantsov" creationdate="20170918T123913Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074839Z" creationid="Lev Abashkin" creationdate="20170924T074839Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074843Z" creationid="Lev Abashkin" creationdate="20170924T074843Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
