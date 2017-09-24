@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071032Z" creationid="Lev Abashkin" creationdate="20170924T071032Z">
+        <seg>&amp;Показывать в контекстном меню редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T170726Z" creationid="abashkinl" creationdate="20170104T170726Z">
@@ -5467,6 +5475,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071620Z" creationid="Lev Abashkin" creationdate="20170924T071620Z">
+        <seg>Пра&amp;вка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T092022Z" creationid="abashkinl" creationdate="20161011T092022Z">
@@ -5477,8 +5493,8 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Edit External Search Command</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T200235Z" creationid="abashkinl" creationdate="20170104T200235Z">
-        <seg>Редактировать команду внешнего поиска</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T070726Z" creationid="abashkinl" creationdate="20170104T200235Z">
+        <seg>Редактирование команды внешнего поиска</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,8 +5509,8 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Edit External Search URL</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T202153Z" creationid="abashkinl" creationdate="20170104T200220Z">
-        <seg>Редактировать сайт внешнего поиска</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T070714Z" creationid="abashkinl" creationdate="20170104T200220Z">
+        <seg>Редактирование сайта внешнего поиска</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,6 +12818,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071556Z" creationid="Lev Abashkin" creationdate="20170924T071556Z">
+        <seg>Удали&amp;ть</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T080921Z" creationid="abashkinl" creationdate="20170104T180050Z">
@@ -13412,6 +13436,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071632Z" creationid="Lev Abashkin" creationdate="20170924T071632Z">
+        <seg>Пример</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -13624,6 +13656,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Папка скриптов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071042Z" creationid="Lev Abashkin" creationdate="20170924T071042Z">
+        <seg>&amp;Установить</seg>
       </tuv>
     </tu>
     <tu>
@@ -15275,6 +15315,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Термины с несколькими переводами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T070757Z" creationid="Lev Abashkin" creationdate="20170924T070757Z">
+        <seg>Проверка</seg>
       </tuv>
     </tu>
     <tu>
