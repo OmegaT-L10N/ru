@@ -1814,6 +1814,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114000Z" creationid="Lev Abashkin" creationdate="20170924T114000Z">
+        <seg>&lt;a0&gt;Документация&lt;/a0&gt; — это очень важно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123906Z" creationid="Kos Ivantsov" creationdate="20170918T123906Z">
@@ -2146,6 +2154,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T065400Z" creationid="abashkinl" creationdate="20170312T065330Z">
         <seg>Пошаговое руководство по использованию функций Rainbow «Извлечение текста» и «Объединение текста» для пред- и постобработки файлов, предназначенных для перевода в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T121221Z" creationid="Lev Abashkin" creationdate="20170924T121221Z">
+        <seg>Огромное количество функций, лаконичный интерфейс и, что самое главное, непрекращающаяся разработка с открытыми исходными кодами!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5111,6 +5127,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114651Z" creationid="Lev Abashkin" creationdate="20170924T114651Z">
+        <seg>Диего Мерино - переводчик EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094322Z" creationid="Lev Abashkin" creationdate="20170906T094322Z">
@@ -7693,6 +7717,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>В&amp;ставить оригинал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T121042Z" creationid="Lev Abashkin" creationdate="20170924T120606Z">
+        <seg>В качестве профессионального переводчика я использую OmegaT уже более 10 лет, с самых первых дней оценив её простоту использования и форум пользователей, всегда готовых прийти на помощь.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,6 +11037,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114819Z" creationid="Lev Abashkin" creationdate="20170924T114819Z">
+        <seg>ODFAuthors и команда переводчиков LibreOffice на итальянский язык гордятся, что могут использовать такой замечательный инструмент для своей нелёгкой работы в LibreOffice Community.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T153651Z" creationid="abashkinl" creationdate="20170317T153651Z">
@@ -12422,6 +12462,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T113146Z" creationid="Lev Abashkin" creationdate="20170924T113146Z">
+        <seg>Готовые двоичные файлы доступны в виде ночных сборок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T135502Z" creationid="abashkinl" creationdate="20161012T135502Z">
@@ -12618,16 +12666,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Programming (Java)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T200240Z" creationid="abashkinl" creationdate="20170311T200240Z">
-        <seg>Программирование (на Java)</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114019Z" creationid="abashkinl" creationdate="20170311T200240Z">
+        <seg>Программирование (Java)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Programming (not Java)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T200344Z" creationid="abashkinl" creationdate="20170311T200344Z">
-        <seg>Программирование (не на Java)</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114026Z" creationid="abashkinl" creationdate="20170311T200344Z">
+        <seg>Программирование (не Java)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,6 +13702,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T134238Z" creationid="abashkinl" creationdate="20161012T134238Z">
         <seg>Писать справа налево (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T121239Z" creationid="Lev Abashkin" creationdate="20170924T121239Z">
+        <seg>Роберт Корнер, Institut Laue-Langevin, France</seg>
       </tuv>
     </tu>
     <tu>
@@ -15818,6 +15874,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T113617Z" creationid="Lev Abashkin" creationdate="20170924T113617Z">
+        <seg>Версия из "/trunk" — самая последняя, "альфа" версия, находящаяся в данный момент в разработке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Latest" version is recommended.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T152725Z" creationid="abashkinl" creationdate="20170312T152641Z">
@@ -15958,6 +16022,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120511Z" creationid="Kos Ivantsov" creationdate="20170905T120511Z">
         <seg>Проект OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114328Z" creationid="Lev Abashkin" creationdate="20170924T114328Z">
+        <seg>Проект OmegaT и вы</seg>
       </tuv>
     </tu>
     <tu>
@@ -16444,6 +16516,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T142648Z" creationid="abashkinl" creationdate="20170104T142648Z">
         <seg>Пароли не совпадают.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much efficient</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114629Z" creationid="Lev Abashkin" creationdate="20170924T114629Z">
+        <seg>Идеальный спутник для тех из нас, кому требуется не сложность, а эффективность; глоссарии, автозаполнение и автоматический перевод делают мою работу в литературном переводе намного эффективнее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18614,6 +18694,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114046Z" creationid="Lev Abashkin" creationdate="20170924T114046Z">
+        <seg>Портрет пользователя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User requirements</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170108T114936Z" creationid="abashkinl" creationdate="20170108T114936Z">
@@ -18730,6 +18818,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Проверка тегов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114834Z" creationid="Lev Abashkin" creationdate="20170924T114834Z">
+        <seg>Вальтер Мура - переводчик EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19496,6 +19592,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T082455Z" creationid="abashkinl" creationdate="20170316T082440Z">
         <seg>Вы можете создавать любое количество «вариантов перевода» для одинаковых сегментов, но перевод по умолчанию может быть только один (или не одного).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T113320Z" creationid="Lev Abashkin" creationdate="20170924T113320Z">
+        <seg>Вы всё ещё можете найти &lt;a0&gt;устаревшие версии&lt;/a0&gt; OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
