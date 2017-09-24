@@ -3697,6 +3697,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122739Z" creationid="Lev Abashkin" creationdate="20170924T122739Z">
+        <seg>Однако некоторые возможности были реализованы за счёт коммерческой поддержки спонсоров, передавших наработки назад в сообщество.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -5949,6 +5957,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Английский</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122210Z" creationid="Lev Abashkin" creationdate="20170924T122210Z">
+        <seg>Переводчики с английского</seg>
       </tuv>
     </tu>
     <tu>
@@ -15205,6 +15221,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122506Z" creationid="Lev Abashkin" creationdate="20170924T122506Z">
+        <seg>Спонсорская поддержка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110328Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -16399,6 +16423,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122556Z" creationid="Lev Abashkin" creationdate="20170924T122556Z">
+        <seg>Огромная часть работы над проектом OmegaT была сделана на добровольной основе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -17506,6 +17538,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T153439Z" creationid="abashkinl" creationdate="20161012T153439Z">
         <seg>Чтобы преобразовать его в новый командный проект, откройте его в графическом интерфейсе OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122815Z" creationid="Lev Abashkin" creationdate="20170924T122815Z">
+        <seg>На сегодня спонсорами выступили:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19028,6 +19068,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094659Z" creationid="Lev Abashkin" creationdate="20170906T094659Z">
         <seg>Субтитры WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T122148Z" creationid="Lev Abashkin" creationdate="20170924T122148Z">
+        <seg>Авторы контента сайта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T121425Z" creationid="Lev Abashkin" creationdate="20170924T121425Z">
+        <seg>Дизайн сайта</seg>
       </tuv>
     </tu>
     <tu>
