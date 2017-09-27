@@ -5447,6 +5447,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T070901Z" creationid="Lev Abashkin" creationdate="20170927T070901Z">
+        <seg>Документация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation authoring</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T195703Z" creationid="abashkinl" creationdate="20170311T195703Z">
@@ -11173,6 +11181,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T070717Z" creationid="Lev Abashkin" creationdate="20170927T070717Z">
+        <seg>OmegaT — свободная программа для автоматизации перевода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124800Z" creationid="Kos Ivantsov" creationdate="20170918T124800Z">
@@ -11385,6 +11401,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081225Z" creationid="Lev Abashkin" creationdate="20170918T081225Z">
         <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода CAT (Computer Aided Translation, перевод с помощью компьютера), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T070846Z" creationid="Lev Abashkin" creationdate="20170927T070846Z">
+        <seg>OmegaT — это свободная система автоматизированного перевода для профессиональных переводчиков, поддерживающая память переводов и написанная на языке программирования Java.</seg>
       </tuv>
     </tu>
     <tu>
