@@ -2238,6 +2238,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072146Z" creationid="Lev Abashkin" creationdate="20170927T072146Z">
+        <seg>О проекте</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4377,6 +4385,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Режим console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Регулярное выражение белого списка имён файлов оригинала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072551Z" creationid="Lev Abashkin" creationdate="20170927T072551Z">
+        <seg>Связь и поддержка</seg>
       </tuv>
     </tu>
     <tu>
@@ -9977,6 +9993,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072305Z" creationid="Lev Abashkin" creationdate="20170927T072305Z">
+        <seg>Руководство пользователя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T082416Z" creationid="abashkinl" creationdate="20161011T082416Z">
@@ -12113,6 +12137,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072240Z" creationid="Lev Abashkin" creationdate="20170927T072240Z">
+        <seg>Страница не найдена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T134117Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12213,6 +12245,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T213125Z" creationid="abashkinl" creationdate="20170106T213125Z">
         <seg>Переодические сборки доступны на CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072248Z" creationid="Lev Abashkin" creationdate="20170927T072248Z">
+        <seg>Философия</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +13746,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072253Z" creationid="Lev Abashkin" creationdate="20170927T072253Z">
+        <seg>Ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -13798,6 +13846,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T141602Z" creationid="abashkinl" creationdate="20170317T141602Z">
         <seg>Обзор OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072424Z" creationid="Lev Abashkin" creationdate="20170927T072424Z">
+        <seg>Обзоры</seg>
       </tuv>
     </tu>
     <tu>
@@ -15149,6 +15205,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072500Z" creationid="Lev Abashkin" creationdate="20170927T072500Z">
+        <seg>Исходный код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T213227Z" creationid="abashkinl" creationdate="20170106T213227Z">
@@ -16166,6 +16230,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Ошибка при выполнении фильтра Mozilla DTD:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072228Z" creationid="Lev Abashkin" creationdate="20170927T072228Z">
+        <seg>Проект OmegaT</seg>
       </tuv>
     </tu>
     <tu>
