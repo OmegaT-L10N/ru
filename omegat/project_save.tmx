@@ -3441,6 +3441,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T204439Z" creationid="Kos Ivantsov" creationdate="20170928T204439Z">
+        <seg>Обозреватель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T080930Z" creationid="abashkinl" creationdate="20170317T080218Z">
@@ -8108,6 +8116,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T180436Z" creationid="abashkinl" creationdate="20170315T180436Z">
         <seg>Если вы уверены, что на вашем компьютере уже установлена подходящая версия Java Runtime Environment, то вы можете выбрать этот вариант загрузки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T204633Z" creationid="Kos Ivantsov" creationdate="20170928T204633Z">
+        <seg>Если в работе находятся файлы .html, то для предварительного просмотра очень удобно пользоваться программой-обозревателем с автоматическим обновлением.</seg>
       </tuv>
     </tu>
     <tu>
