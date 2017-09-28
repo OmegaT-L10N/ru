@@ -9048,6 +9048,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should be updated continually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T203451Z" creationid="Kos Ivantsov" creationdate="20170928T203451Z">
+        <seg>постоянное обновление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should display the text with something approaching the final layout and formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T203211Z" creationid="Kos Ivantsov" creationdate="20170928T203211Z">
+        <seg>отображение текста в виде, близком к окончательному варианту (форматирование и макет);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
