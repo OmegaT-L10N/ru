@@ -7873,6 +7873,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ideally, a viewer should do two things:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170929T093139Z" creationid="Kos Ivantsov" creationdate="20170929T093139Z">
+        <seg>В идеале у функции предварительного просмотра должно быть две характеристики:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
