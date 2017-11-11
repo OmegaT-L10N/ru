@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10098M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_110b01e89" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4819,6 +4819,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Автор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190552Z" creationid="Lev Abashkin" creationdate="20171111T190552Z">
+        <seg>Кросс-платформенная версия без JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,6 +9761,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190517Z" creationid="Lev Abashkin" creationdate="20171111T190517Z">
+        <seg>Linux с 64-разрядной JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190508Z" creationid="Lev Abashkin" creationdate="20171111T190508Z">
+        <seg>Linux с JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -11193,6 +11217,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T153651Z" creationid="abashkinl" creationdate="20170317T153651Z">
         <seg>Программа поиска слов в онлайн-словарях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190454Z" creationid="Lev Abashkin" creationdate="20171111T190454Z">
+        <seg>OS X с электронной подписью</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190505Z" creationid="Lev Abashkin" creationdate="20171111T190505Z">
+        <seg>OS X без электронной подписи</seg>
       </tuv>
     </tu>
     <tu>
@@ -19534,6 +19574,30 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T110535Z" creationid="abashkinl" creationdate="20170318T110535Z">
         <seg>Для пользователей Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190432Z" creationid="Lev Abashkin" creationdate="20171111T190432Z">
+        <seg>Windows с 64-разрядной JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190418Z" creationid="Lev Abashkin" creationdate="20171111T190418Z">
+        <seg>Windows с JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190357Z" creationid="Lev Abashkin" creationdate="20171111T190357Z">
+        <seg>Windows без JRE</seg>
       </tuv>
     </tu>
     <tu>
