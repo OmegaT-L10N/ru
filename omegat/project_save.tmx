@@ -4413,6 +4413,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T191509Z" creationid="Lev Abashkin" creationdate="20171111T191509Z">
+        <seg>Связь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contact and Support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072551Z" creationid="Lev Abashkin" creationdate="20170927T072551Z">
@@ -7797,6 +7805,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T124830Z" creationid="abashkinl" creationdate="20170318T124830Z">
         <seg>Как я узнаю, когда закончился мой месячный лимит?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T191518Z" creationid="Lev Abashkin" creationdate="20171111T191518Z">
+        <seg>HowTo</seg>
       </tuv>
     </tu>
     <tu>
