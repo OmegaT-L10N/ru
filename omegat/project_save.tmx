@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_110b01e89" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10150M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1754,6 +1754,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212834Z" creationid="Kos Ivantsov" creationdate="20170906T212834Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191937Z" creationid="Kos Ivantsov" creationdate="20171111T191937Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,6 +4209,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190627Z" creationid="Kos Ivantsov" creationdate="20171111T190627Z">
+        <seg>Зафиксировать переведённые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T100407Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4213,6 +4229,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082206Z" creationid="Lev Abashkin" creationdate="20170918T082206Z">
         <seg>Фиксация файлов оригинала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190748Z" creationid="Kos Ivantsov" creationdate="20171111T190748Z">
+        <seg>Фиксация переведённых файлов</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4397,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T092705Z" creationid="abashkinl" creationdate="20170312T092705Z">
         <seg>Соответственно, выделение серым цветом работает одинаково для всех неуникальных сегментов, независимо от способа их перевода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T192651Z" creationid="Kos Ivantsov" creationdate="20171111T192651Z">
+        <seg>Состоит из руководства для обучающегося и инструкций для тренера, а также образца материалов для перевода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,6 +6709,22 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T093731Z" creationid="Lev Abashkin" creationdate="20170906T093650Z">
         <seg>Не удалось зафиксировать файл оригинала!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190704Z" creationid="Kos Ivantsov" creationdate="20171111T190646Z">
+        <seg>Не удалось зафиксировать файлы оригинала!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190725Z" creationid="Kos Ivantsov" creationdate="20171111T190725Z">
+        <seg>Не удалось зафиксировать переведённые файлы!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9225,6 +9273,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190834Z" creationid="Kos Ivantsov" creationdate="20171111T190834Z">
+        <seg>JGit (лицензия Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JRE</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T103336Z" creationid="Lev Abashkin" creationdate="20170924T103336Z">
@@ -9629,6 +9685,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110651Z" creationid="Lev Abashkin" creationdate="20170924T110651Z">
         <seg>Последняя версия - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191650Z" creationid="Kos Ivantsov" creationdate="20171111T191650Z">
+        <seg>Последняя версия - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10389,6 +10453,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Объединить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191844Z" creationid="Kos Ivantsov" creationdate="20171111T191844Z">
+        <seg>Microsoft Office 2007–2010 (Word, Excel, PowerPoint 2007–2010); Office Open XML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191901Z" creationid="Kos Ivantsov" creationdate="20171111T191901Z">
+        <seg>Microsoft Office 97–2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
       </tuv>
     </tu>
     <tu>
@@ -12762,6 +12842,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Не удалось сохранить параметры!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191603Z" creationid="Kos Ivantsov" creationdate="20171111T191603Z">
+        <seg>Premium Edition</seg>
       </tuv>
     </tu>
     <tu>
@@ -15565,6 +15653,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191644Z" creationid="Kos Ivantsov" creationdate="20171111T191644Z">
+        <seg>Стандартная версия - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -15987,6 +16083,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Количество переводов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T190813Z" creationid="Kos Ivantsov" creationdate="20171111T190813Z">
+        <seg>Переведённые файлы зафиксированы</seg>
       </tuv>
     </tu>
     <tu>
@@ -16883,6 +16987,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much efficient</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114629Z" creationid="Lev Abashkin" creationdate="20170924T114629Z">
+        <seg>Идеальный спутник для тех из нас, кому требуется не сложность, а эффективность; глоссарии, автозаполнение и автоматический перевод делают мою работу в литературном переводе намного эффективнее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T192001Z" creationid="Kos Ivantsov" creationdate="20171111T192001Z">
         <seg>Идеальный спутник для тех из нас, кому требуется не сложность, а эффективность; глоссарии, автозаполнение и автоматический перевод делают мою работу в литературном переводе намного эффективнее.</seg>
       </tuv>
     </tu>
@@ -19238,6 +19350,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T192720Z" creationid="Kos Ivantsov" creationdate="20171111T192720Z">
+        <seg>Велиор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123814Z" creationid="abashkinl" creationdate="20170312T073741Z">
@@ -20194,6 +20314,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>атрибутов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>built on DEV@cloud</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191723Z" creationid="Kos Ivantsov" creationdate="20171111T191723Z">
+        <seg>собрано на DEV@cloud</seg>
       </tuv>
     </tu>
     <tu>
