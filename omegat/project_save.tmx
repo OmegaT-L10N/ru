@@ -4225,6 +4225,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T191235Z" creationid="Lev Abashkin" creationdate="20171111T191235Z">
+        <seg>Совместимость</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T064435Z" creationid="abashkinl" creationdate="20170312T064435Z">
