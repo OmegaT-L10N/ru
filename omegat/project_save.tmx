@@ -3627,8 +3627,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Скопировать &amp;все данные в буфер обменна</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T194300Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Скопировать &amp;все данные в буфер обмена</seg>
       </tuv>
     </tu>
     <tu>
@@ -3677,6 +3677,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T093216Z" creationid="abashkinl" creationdate="20161011T093216Z">
         <seg>Отмена работает только для поддерживающих её скриптов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200512Z" creationid="Kos Ivantsov" creationdate="20171111T200512Z">
+        <seg>Отменено</seg>
       </tuv>
     </tu>
     <tu>
@@ -3981,6 +3989,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T164816Z" creationid="abashkinl" creationdate="20161012T164816Z">
         <seg>Выберите проект MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200507Z" creationid="Kos Ivantsov" creationdate="20171111T200507Z">
+        <seg>Выберите хранилище SVN для проведения очистки</seg>
       </tuv>
     </tu>
     <tu>
@@ -9969,6 +9985,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200653Z" creationid="Kos Ivantsov" creationdate="20171111T200653Z">
+        <seg>Очищено местных рабочих копий: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T195912Z" creationid="abashkinl" creationdate="20170311T195912Z">
@@ -12425,6 +12449,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200442Z" creationid="Kos Ivantsov" creationdate="20171111T200442Z">
+        <seg>Выполнение очистки SVN в текущеем проекте или в любом местном хранилище SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -14222,6 +14254,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>SVN «{0}» выполнение начато</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200354Z" creationid="Kos Ivantsov" creationdate="20171111T200354Z">
+        <seg>SVN - очистка (рекурсивно)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17104,6 +17144,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200630Z" creationid="Kos Ivantsov" creationdate="20171111T200630Z">
+        <seg>Скрипт прекращает свою работу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T170434Z" creationid="abashkinl" creationdate="20170315T170434Z">
@@ -17324,6 +17372,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T142148Z" creationid="abashkinl" creationdate="20170104T142113Z">
         <seg>В Интернете можно найти множество плагинов для OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200614Z" creationid="Kos Ivantsov" creationdate="20171111T200614Z">
+        <seg>В папке {0} не найдено местных рабочих копий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17856,6 +17912,14 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>текущий проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200027Z" creationid="Kos Ivantsov" creationdate="20171111T200027Z">
+        <seg>Скрипт может выполняться в OmegaT версии 3.6 или выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20050,6 +20114,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T195939Z" creationid="Kos Ivantsov" creationdate="20171111T195939Z">
+        <seg>Запущена OmegaT версии {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20704,6 +20776,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200554Z" creationid="Kos Ivantsov" creationdate="20171111T200554Z">
+        <seg>{0} не является местной рабочей копией, пропускается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20772,6 +20852,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T144005Z" creationid="abashkinl" creationdate="20170104T144005Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200525Z" creationid="Kos Ivantsov" creationdate="20171111T200525Z">
+        <seg>{0}:	очистка завершена!</seg>
       </tuv>
     </tu>
     <tu>
