@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10150M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10155M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -298,6 +298,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>&amp;совместимость с OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171113T195657Z" creationid="Kos Ivantsov" creationdate="20171113T195657Z">
+        <seg>&amp;Копировать информацию для поддержки</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1866,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T194147Z" creationid="abashkinl" creationdate="20170318T194147Z">
         <seg>Также для этой задачи может быть использован &lt;a1&gt;Anaphraseus&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171113T195901Z" creationid="Kos Ivantsov" creationdate="20171113T195901Z">
+        <seg>&lt;a2&gt;LibreOffice&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
