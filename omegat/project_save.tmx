@@ -1450,6 +1450,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155907Z" creationid="Kos Ivantsov" creationdate="20171114T155853Z">
+        <seg>(Исполняемый файл Java — это файл java в GNU/Linux или java.exe в Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T193634Z" creationid="abashkinl" creationdate="20170318T193634Z">
@@ -1994,6 +2002,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T211801Z" creationid="Kos Ivantsov" creationdate="20170906T211801Z">
         <seg>&lt;i1&gt;OmegaT может быть установлена в любой операционной системе, где можно запустить Java runtime environment версии 1.6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155826Z" creationid="Kos Ivantsov" creationdate="20171114T155826Z">
+        <seg>&lt;полный путь с именем к исполняемому файлу Java&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2658,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Позволяет просматривать, добавлять, удалять и редактировать примечания к выбранному сегменту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155435Z" creationid="Kos Ivantsov" creationdate="20171114T155435Z">
+        <seg>ALT+F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,6 +5679,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155056Z" creationid="Kos Ivantsov" creationdate="20171114T155056Z">
+        <seg>Дважды щелкните мышью по приложению OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124044Z" creationid="Kos Ivantsov" creationdate="20170918T124044Z">
@@ -7081,6 +7113,15 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155544Z" creationid="Kos Ivantsov" creationdate="20171114T155544Z">
+        <seg>Для более удобного запуска OmegaT можно использовать входящий в пакет установки скрипт на языке Kaptain (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T193258Z" creationid="abashkinl" creationdate="20170311T193258Z">
@@ -8033,6 +8074,15 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T160143Z" creationid="Kos Ivantsov" creationdate="20171114T160143Z">
+        <seg>Если Java установлена на уровне системы и путь к исполняемому файлу добавлен к переменной PATH, то при запуске OmegaT полный путь к Java вводить не обязательно.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T093043Z" creationid="abashkinl" creationdate="20170312T092910Z">
@@ -8296,6 +8346,15 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155032Z" creationid="Kos Ivantsov" creationdate="20171114T155032Z">
+        <seg>Если в файловом менеджере (Проводнике Windows) вы видите только файл OmegaT, а не OmegaT.exe, то включите отображение расширений файлов в настройках Проводника Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you don't already have one, open an account with google.com.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T110332Z" creationid="abashkinl" creationdate="20170318T110332Z">
@@ -8381,6 +8440,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T084401Z" creationid="abashkinl" creationdate="20170312T084401Z">
         <seg>Если у вас, например, есть только файлы словаря боливийского испанского, с именами «es_BO.dic» и «es_BO.aff», то вы можете переименовать их в «es_MX.dic» и «es_MX.aff» соответственно, и модуль проверки орфографии заработает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155426Z" creationid="Kos Ivantsov" creationdate="20171114T155426Z">
+        <seg>Если вы воспользовались скриптом установки linux-install.sh, то вы можете запустить OmegaT, нажав</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,6 +9896,16 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155312Z" creationid="Kos Ivantsov" creationdate="20171114T155312Z">
+        <seg>Запуск OmegaT (GNU/Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
@@ -9861,6 +9938,16 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T163114Z" creationid="abashkinl" creationdate="20170315T163114Z">
         <seg>Запуск OmegaT из командной строки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155652Z" creationid="Kos Ivantsov" creationdate="20171114T155652Z">
+        <seg>Запуск OmegaT из командной строки (все операционные системы)
+============================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16935,6 +17022,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155712Z" creationid="Kos Ivantsov" creationdate="20171114T155712Z">
+        <seg>Для запуска OmegaT введите команду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command will therefore be (in this case):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T170202Z" creationid="abashkinl" creationdate="20170315T170202Z">
@@ -17126,6 +17221,16 @@ instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T204304Z" creationid="abashkinl" creationdate="20170318T204304Z">
         <seg>Ниже описаны конкретные примеры двуязычных форматов файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154518Z" creationid="Kos Ivantsov" creationdate="20171114T154518Z">
+        <seg>Программа установки может создать ярлыки в меню «Пуск», на рабочем столе
+и на панели быстрого запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18399,6 +18504,15 @@ the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T084248Z" creationid="abashkinl" creationdate="20170312T084248Z">
         <seg>Чтобы использовать словари, распространяющиеся в этом формате, измените расширение файла обратно, с «*.oxt» на «*.zip» и извлеките «*.dic» и «*.aff» файлы с помощью какого-нибудь архиватора (например, WinZip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155555Z" creationid="Kos Ivantsov" creationdate="20171114T155555Z">
+        <seg>Для использования этого скрипта сначала необходимо установить Kaptain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20410,6 +20524,26 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also launch
+it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155256Z" creationid="Kos Ivantsov" creationdate="20171114T155256Z">
+        <seg>Кроме того, OmegaT можно запустить из результатов поиска Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154631Z" creationid="Kos Ivantsov" creationdate="20171114T154631Z">
+        <seg>Кроме того, можно вручную создать ярлык для запуска, перетащив файл OmegaT.exe
+в меню «Пуск», на рабочий стол или на панель быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can check the daily usage from your Google account.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T115928Z" creationid="abashkinl" creationdate="20170318T115928Z">
@@ -20504,6 +20638,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155626Z" creationid="Kos Ivantsov" creationdate="20171114T155626Z">
+        <seg>Затем этот Kaptain-скрипт можно запустить, нажав</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20524,6 +20666,15 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Кроме того, можно просто скопировать файлы в папку «source» вашего проекта, используя любой менеджер файлов, а затем перезагрузить проект, выбрав пункт «Перезагрузить» в меню «Проект».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155154Z" creationid="Kos Ivantsov" creationdate="20171114T155154Z">
+        <seg>Для удобства запуска просто перетащите приложение OmegaT в док или на панель Finder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20666,6 +20817,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155452Z" creationid="Kos Ivantsov" creationdate="20171114T155452Z">
+        <seg>и введя в появившемся окне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20686,6 +20845,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T144016Z" creationid="abashkinl" creationdate="20161011T144016Z">
         <seg>отменён (заняло {0} мс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155736Z" creationid="Kos Ivantsov" creationdate="20171114T155736Z">
+        <seg>cd &lt;путь к папке, в которой находится OmegaT.jar&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20888,6 +21055,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094058Z" creationid="Lev Abashkin" creationdate="20170906T094058Z">
         <seg>mALIGNa (лицензия MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155459Z" creationid="Kos Ivantsov" creationdate="20171114T155459Z">
+        <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155631Z" creationid="Kos Ivantsov" creationdate="20171114T155631Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
