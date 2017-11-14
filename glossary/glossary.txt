@@ -8,3 +8,4 @@ Marc Prior	Марк Прайор
 Vincent Bidaux	Винсент Бидау
 Jean-Christophe Helary	Жан-Кристоф Хелари
 OmegaT	OmegaT
+JRE	JRE	Java Runtime Environment / среда выполнения Java
