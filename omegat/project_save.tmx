@@ -1376,6 +1376,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211640Z" creationid="Kos Ivantsov" creationdate="20171114T211640Z">
+        <seg>(Если вы считаете, что внесли серьезный вклад в развитие проекта OmegaT,
+но не видите своего имени в списке, пожалуйста, сообщите нам об этом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T073853Z" creationid="abashkinl" creationdate="20170312T065642Z">
@@ -2262,6 +2272,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211447Z" creationid="Kos Ivantsov" creationdate="20171114T211447Z">
+        <seg>Эрон Медлон-Кэй (менеджер по интеграции);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T152915Z" creationid="abashkinl" creationdate="20161012T152915Z">
@@ -2514,6 +2532,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T205123Z" creationid="abashkinl" creationdate="20170311T205123Z">
         <seg>Алекс Булойчик (Alex Buloichik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik (lead developer)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211154Z" creationid="Kos Ivantsov" creationdate="20171114T211154Z">
+        <seg>Алекс Булойчик (ведущий разработчик);</seg>
       </tuv>
     </tu>
     <tu>
@@ -3493,6 +3519,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T204439Z" creationid="Kos Ivantsov" creationdate="20170928T204439Z">
         <seg>Обозреватель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212044Z" creationid="Kos Ivantsov" creationdate="20171114T212044Z">
+        <seg>Сообщения об ошибках (на английском языке) можно опубликовать на том же трекере:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,8 +4633,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T210618Z" creationid="Kos Ivantsov" creationdate="20171114T210354Z">
-        <seg>  Участники, внесшие вклад в развитие программного кода, указаны в файле
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T210702Z" creationid="Kos Ivantsov" creationdate="20171114T210354Z">
+        <seg>Участники, внесшие вклад в развитие программного кода, указаны в файле
 /docs/contributors.txt.</seg>
       </tuv>
     </tu>
@@ -5518,6 +5552,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T073752Z" creationid="abashkinl" creationdate="20161011T131643Z">
         <seg>Расстояние</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211355Z" creationid="Kos Ivantsov" creationdate="20171114T211355Z">
+        <seg>Дмитрий Габинский</seg>
       </tuv>
     </tu>
     <tu>
@@ -9564,6 +9606,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (localization manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211427Z" creationid="Kos Ivantsov" creationdate="20171114T211427Z">
+        <seg>Жан-Кристоф Хелари (координатор работы по локализации);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell (LGPL License)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094157Z" creationid="Lev Abashkin" creationdate="20170906T094157Z">
@@ -10474,6 +10524,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T204741Z" creationid="abashkinl" creationdate="20170311T204625Z">
         <seg>Марк Прайор (Marc Prior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211520Z" creationid="Kos Ivantsov" creationdate="20171114T211520Z">
+        <seg>Марк Прайор (вебмастер)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12597,6 +12655,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other contributions by</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T210802Z" creationid="Kos Ivantsov" creationdate="20171114T210802Z">
+        <seg>В развитии проекта также участвуют:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T154553Z" creationid="abashkinl" creationdate="20170317T154451Z">
@@ -13281,8 +13347,8 @@ project without team functionality.</seg>
         <seg>Previous contributors include:
 (alphabetical order)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T210609Z" creationid="Kos Ivantsov" creationdate="20171114T210048Z">
-        <seg>Разработчики, ранее участвующие в развитии проекта:</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T210858Z" creationid="Kos Ivantsov" creationdate="20171114T210048Z">
+        <seg>Прежние участники проекта:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14225,6 +14291,15 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211808Z" creationid="Kos Ivantsov" creationdate="20171114T211808Z">
+        <seg>Запросы на новые возможности (на английском языке)
+можно разместить на SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T195757Z" creationid="abashkinl" creationdate="20170105T195757Z">
@@ -14593,6 +14668,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211246Z" creationid="Kos Ivantsov" creationdate="20171114T211246Z">
+        <seg>Сабин Кретелла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T071632Z" creationid="Lev Abashkin" creationdate="20170924T071632Z">
@@ -14613,6 +14696,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T142328Z" creationid="abashkinl" creationdate="20170317T142328Z">
         <seg>Образцы текстов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211523Z" creationid="Kos Ivantsov" creationdate="20171114T211505Z">
+        <seg>Сэмюел Мюррей;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17323,6 +17414,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211722Z" creationid="Kos Ivantsov" creationdate="20171114T211722Z">
+        <seg>Самую свежую информацию об OmegaT можно найти на веб-сайте программы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T084309Z" creationid="abashkinl" creationdate="20170312T084309Z">
@@ -19592,6 +19691,16 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211659Z" creationid="Kos Ivantsov" creationdate="20171114T211659Z">
+        <seg>Полезные ссылки
+===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T114251Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -19644,6 +19753,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170108T114936Z" creationid="abashkinl" creationdate="20170108T114936Z">
         <seg>Требования к пользователям</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are
+searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211739Z" creationid="Kos Ivantsov" creationdate="20171114T211739Z">
+        <seg>Поддержка пользователей осуществляется в многоязычной почтовой рассылке на Yahoo
+(архивы рассылки доступны без подписки):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19894,6 +20013,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T205246Z" creationid="abashkinl" creationdate="20170311T205246Z">
         <seg>Винсент Бидау (Vincent Bidaux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211227Z" creationid="Kos Ivantsov" creationdate="20171114T210908Z">
+        <seg>Винсент Бидау (координатор создания и ведения документации);</seg>
       </tuv>
     </tu>
     <tu>
@@ -20846,6 +20973,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and many, many more very helpful people</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211549Z" creationid="Kos Ivantsov" creationdate="20171114T211549Z">
+        <seg>и многие, многие другие прекрасные люди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155452Z" creationid="Kos Ivantsov" creationdate="20171114T155452Z">
@@ -21002,6 +21137,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212334Z" creationid="Kos Ivantsov" creationdate="20170906T212334Z">
         <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211742Z" creationid="Kos Ivantsov" creationdate="20171114T211742Z">
+        <seg>https://groups.yahoo.com/neo/группы/OmegaT/информация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212049Z" creationid="Kos Ivantsov" creationdate="20171114T212049Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
     </tu>
     <tu>
