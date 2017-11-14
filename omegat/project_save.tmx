@@ -8824,12 +8824,32 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T130551Z" creationid="Kos Ivantsov" creationdate="20171114T130551Z">
+        <seg>Установка OmegaT (GNU/Linux)
+============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120935Z" creationid="Kos Ivantsov" creationdate="20171114T120935Z">
+        <seg>Установка OmegaT (OS X)
+==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120833Z" creationid="Kos Ivantsov" creationdate="20171114T120809Z">
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120939Z" creationid="Kos Ivantsov" creationdate="20171114T120809Z">
         <seg>Установка OmegaT (Windows)
-==============================</seg>
+=============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +9767,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120856Z" creationid="Kos Ivantsov" creationdate="20171114T120856Z">
+        <seg>Необходимо запустить программу установки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT from a launch script</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T170710Z" creationid="abashkinl" creationdate="20170315T170710Z">
@@ -9838,9 +9866,9 @@ inside the configuration folder.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120735Z" creationid="Kos Ivantsov" creationdate="20171114T120735Z">
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T124523Z" creationid="Kos Ivantsov" creationdate="20171114T120735Z">
         <seg>Информация о лицензировании
-===============================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10785,6 +10813,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T131848Z" creationid="abashkinl" creationdate="20161011T131848Z">
         <seg>Переместить вверх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T125330Z" creationid="Kos Ivantsov" creationdate="20171114T125209Z">
+        <seg>Переместите эту папку в папку приложений или в другое подходящее место.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11843,6 +11880,15 @@ your home folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T090109Z" creationid="Lev Abashkin" creationdate="20170906T090109Z">
         <seg>У OmegaT закончилась память, когда вы нажмёте OK, программа будет закрыта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T124759Z" creationid="Kos Ivantsov" creationdate="20171114T124701Z">
+        <seg>Для работы OmegaT необходимо, чтобы в вашей системе была установлена среда выполнения Java Runtime Environment (JRE) версии 1.8 или выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12945,9 +12991,9 @@ additional steps need to be taken.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120755Z" creationid="Kos Ivantsov" creationdate="20171114T120551Z">
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120949Z" creationid="Kos Ivantsov" creationdate="20171114T120551Z">
         <seg>Необходимые условия для установки OmegaT
-=============================================</seg>
+============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -19086,6 +19132,15 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T125246Z" creationid="Kos Ivantsov" creationdate="20171114T125137Z">
+        <seg>Распакуйте архив OmegaT.zip. Появившаяся папка будет содержать файл документации и приложение OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -19656,6 +19711,17 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170905T120257Z" creationid="Kos Ivantsov" creationdate="20170905T120257Z">
         <seg>Запрашиваемая страница не найдена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T125022Z" creationid="Kos Ivantsov" creationdate="20171114T124745Z">
+        <seg>Чтобы не тратить времени на поиск, скачивание и установку среды выполнения,
+рекомендуется использовать установочные пакеты OmegaT,
+включающие JRE.</seg>
       </tuv>
     </tu>
     <tu>
