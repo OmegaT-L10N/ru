@@ -11828,6 +11828,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T133605Z" creationid="Kos Ivantsov" creationdate="20171114T133605Z">
+        <seg>программа OmegaT готова к работе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T193058Z" creationid="abashkinl" creationdate="20170318T191901Z">
@@ -12599,6 +12608,14 @@ everything.</seg>
         <seg>Скопируйте файлы оригинала
 в ./source и дополнительные файлы в ./tm, ./glossary, и ./dictionary, если это
 требуется, а затем зафиксируйте изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T133552Z" creationid="Kos Ivantsov" creationdate="20171114T133552Z">
+        <seg>Поместите архив в любую подходящую папку и распакуйте его —</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,6 +18329,19 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T133806Z" creationid="Kos Ivantsov" creationdate="20171114T133806Z">
+        <seg>Для этого откройте окно эмулятора терминала (консоль), перейдите в папку,
+содержащую OmegaT.jar и linux-install.sh,
+и запустите скрипт командой sudo ./linux-install.sh или su -c "./linux-install.sh".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T160934Z" creationid="abashkinl" creationdate="20161011T160934Z">
@@ -20368,6 +20398,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T082455Z" creationid="abashkinl" creationdate="20170316T082440Z">
         <seg>Вы можете создавать любое количество «вариантов перевода» для одинаковых сегментов, но перевод по умолчанию может быть только один (или не одного).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T133719Z" creationid="Kos Ivantsov" creationdate="20171114T133719Z">
+        <seg>Кроме того, для более удобного использования вы может установить программу
+с помощью скрипта установки linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
