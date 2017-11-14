@@ -2120,6 +2120,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212226Z" creationid="Kos Ivantsov" creationdate="20171114T212149Z">
+        <seg>Перевод на русский язык:
+Андрей Кутузов, Андрей Сербовец, Павел Марьянов, Михаил Васильев © 2014
+Кос Иванцов, Лев Абашкин © 2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212823Z" creationid="abashkinl" creationdate="20170312T074914Z">
@@ -11953,8 +11963,8 @@ appropriate location such as the Applications folder.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120127Z" creationid="Kos Ivantsov" creationdate="20171114T120127Z">
-        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода CAT (Computer Aided Translation, перевод с помощью компьютера), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212437Z" creationid="Kos Ivantsov" creationdate="20171114T120127Z">
+        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода (или система CAT —Computer Aided Translation), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
       </tuv>
     </tu>
     <tu>
