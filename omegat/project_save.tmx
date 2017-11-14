@@ -7187,8 +7187,9 @@ project_save.tmx не был выгружен и SVN переключилась 
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155544Z" creationid="Kos Ivantsov" creationdate="20171114T155544Z">
-        <seg>Для более удобного запуска OmegaT можно использовать входящий в пакет установки скрипт на языке Kaptain (omegat.kaptn).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212815Z" creationid="Kos Ivantsov" creationdate="20171114T155544Z">
+        <seg>Для более удобного запуска OmegaT можно использовать
+входящий в пакет установки скрипт на языке Kaptain (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8148,9 +8149,10 @@ script provided (omegat.kaptn).</seg>
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T201619Z" creationid="Kos Ivantsov" creationdate="20171114T160143Z">
-        <seg>Если Java установлена на уровне системы и путь к исполняемому файлу добавлен к переменной PATH,
-то при запуске OmegaT полный путь к Java вводить не обязательно.)</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212847Z" creationid="Kos Ivantsov" creationdate="20171114T160143Z">
+        <seg>Если Java установлена на уровне системы и путь к исполняемому файлу
+добавлен к переменной PATH, то при запуске OmegaT полный путь к Java
+вводить не обязательно.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8421,8 +8423,9 @@ their defaults as a result of the location change.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155032Z" creationid="Kos Ivantsov" creationdate="20171114T155032Z">
-        <seg>Если в файловом менеджере (Проводнике Windows) вы видите только файл OmegaT, а не OmegaT.exe, то включите отображение расширений файлов в настройках Проводника Windows.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212753Z" creationid="Kos Ivantsov" creationdate="20171114T155032Z">
+        <seg>Если в файловом менеджере (Проводнике Windows) вы видите только файл OmegaT,
+а не OmegaT.exe, то включите отображение расширений файлов в настройках Проводника Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,8 +8521,9 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155426Z" creationid="Kos Ivantsov" creationdate="20171114T155426Z">
-        <seg>Если вы воспользовались скриптом установки linux-install.sh, то вы можете запустить OmegaT, нажав</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212800Z" creationid="Kos Ivantsov" creationdate="20171114T155426Z">
+        <seg>Если вы воспользовались скриптом установки linux-install.sh,
+то вы можете запустить OmegaT, нажав</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,8 +9438,9 @@ inside the configuration folder.</seg>
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153749Z" creationid="Kos Ivantsov" creationdate="20171114T153749Z">
-        <seg>В результате на ваш компьютер будут установлены компоненты, необходимые для работы OmegaT, и само приложение.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212744Z" creationid="Kos Ivantsov" creationdate="20171114T153749Z">
+        <seg>В результате на ваш компьютер будут установлены компоненты, необходимые
+для работы OmegaT, и само приложение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11963,8 +11968,10 @@ appropriate location such as the Applications folder.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212437Z" creationid="Kos Ivantsov" creationdate="20171114T120127Z">
-        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода (или система CAT —Computer Aided Translation), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212657Z" creationid="Kos Ivantsov" creationdate="20171114T120127Z">
+        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода
+(или система CAT —Computer Aided Translation), включающая поиск нечётких совпадений, память переводов,
+поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12005,8 +12012,10 @@ translation leveraging into updated projects.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120322Z" creationid="Kos Ivantsov" creationdate="20171114T120255Z">
-        <seg>OmegaT распространяется в соответствии с условиями лицензии GNU General Public License, опубликованной Free Software Foundation; вы можете использовать версию 3 этой лицензии или любую более позднюю версию (по вашему выбору).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212713Z" creationid="Kos Ivantsov" creationdate="20171114T120255Z">
+        <seg>OmegaT распространяется в соответствии с условиями лицензии GNU General Public License,
+опубликованной Free Software Foundation; вы можете использовать версию 3 этой лицензии 
+или любую более позднюю версию (по вашему выбору).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12145,8 +12154,9 @@ to be launched.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T124759Z" creationid="Kos Ivantsov" creationdate="20171114T124701Z">
-        <seg>Для работы OmegaT необходимо, чтобы в вашей системе была установлена среда выполнения Java Runtime Environment (JRE) версии 1.8 или выше.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212723Z" creationid="Kos Ivantsov" creationdate="20171114T124701Z">
+        <seg>Для работы OmegaT необходимо, чтобы в вашей системе была установлена среда выполнения
+Java Runtime Environment (JRE) версии 1.8 или выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19491,8 +19501,9 @@ Exact searches match the whole search string.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T125246Z" creationid="Kos Ivantsov" creationdate="20171114T125137Z">
-        <seg>Распакуйте архив OmegaT.zip. Появившаяся папка будет содержать файл документации и приложение OmegaT.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212734Z" creationid="Kos Ivantsov" creationdate="20171114T125137Z">
+        <seg>Распакуйте архив OmegaT.zip. Появившаяся папка будет содержать
+файл документации и приложение OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
