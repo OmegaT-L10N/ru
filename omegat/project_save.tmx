@@ -7217,6 +7217,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153619Z" creationid="Kos Ivantsov" creationdate="20171114T153619Z">
+        <seg>Для этого загрузите указанный ниже файл и запустите его:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T224520Z" creationid="abashkinl" creationdate="20170311T224520Z">
@@ -8385,6 +8393,16 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154431Z" creationid="Kos Ivantsov" creationdate="20171114T154423Z">
+        <seg>Если во время установки на рабочем столе был создан ярлык, то просто
+дважды щелкните по нему мышью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -9274,6 +9292,15 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153749Z" creationid="Kos Ivantsov" creationdate="20171114T153749Z">
+        <seg>В результате на ваш компьютер будут установлены компоненты, необходимые для работы OmegaT, и само приложение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's a real eye-opener!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T195904Z" creationid="abashkinl" creationdate="20170311T195904Z">
@@ -9754,6 +9781,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153833Z" creationid="Kos Ivantsov" creationdate="20171114T153833Z">
+        <seg>Для последующих запусков наличие соединения с Интернетом не обязательно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170106T215616Z" creationid="abashkinl" creationdate="20170106T215616Z">
@@ -9790,6 +9825,26 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120856Z" creationid="Kos Ivantsov" creationdate="20171114T120856Z">
         <seg>Необходимо запустить программу установки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154343Z" creationid="Kos Ivantsov" creationdate="20171114T154343Z">
+        <seg>Запуск OmegaT (OS X)
+====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154049Z" creationid="Kos Ivantsov" creationdate="20171114T154049Z">
+        <seg>Запуск OmegaT (Windows)
+=======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20707,6 +20762,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153548Z" creationid="Kos Ivantsov" creationdate="20171114T153548Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212913Z" creationid="Kos Ivantsov" creationdate="20170906T212913Z">
@@ -20727,6 +20790,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T055020Z" creationid="abashkinl" creationdate="20170312T055020Z">
         <seg>http://www.leuce.com/autoit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153446Z" creationid="Kos Ivantsov" creationdate="20171114T153446Z">
+        <seg>http://www.omegat.org/</seg>
       </tuv>
     </tu>
     <tu>
