@@ -8824,6 +8824,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120833Z" creationid="Kos Ivantsov" creationdate="20171114T120809Z">
+        <seg>Установка OmegaT (Windows)
+==============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082314Z" creationid="Lev Abashkin" creationdate="20170918T082314Z">
@@ -9821,6 +9831,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T084226Z" creationid="abashkinl" creationdate="20170312T084226Z">
         <seg>Словари для LibreOffice и последних версий OpenOffice.org распространяются в виде «дополнений», это просто zip архивы, расширения которых изменены на «*.oxt».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120735Z" creationid="Kos Ivantsov" creationdate="20171114T120735Z">
+        <seg>Информация о лицензировании
+===============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11653,6 +11673,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120127Z" creationid="Kos Ivantsov" creationdate="20171114T120127Z">
+        <seg>OmegaT — это свободная и открытая мультиплатформенная система автоматизированного перевода CAT (Computer Aided Translation, перевод с помощью компьютера), включающая поиск нечётких совпадений, память переводов, поиск по ключевым словам, глоссарии и использование существующих переводов в обновлённых проектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081225Z" creationid="Lev Abashkin" creationdate="20170918T081225Z">
@@ -11681,6 +11711,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T211233Z" creationid="abashkinl" creationdate="20170311T211233Z">
         <seg>OmegaT — это приложение и проект с открытым исходным кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120322Z" creationid="Kos Ivantsov" creationdate="20171114T120255Z">
+        <seg>OmegaT распространяется в соответствии с условиями лицензии GNU General Public License, опубликованной Free Software Foundation; вы можете использовать версию 3 этой лицензии или любую более позднюю версию (по вашему выбору).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12898,6 +12938,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191603Z" creationid="Kos Ivantsov" creationdate="20171111T191603Z">
         <seg>Premium Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120755Z" creationid="Kos Ivantsov" creationdate="20171114T120551Z">
+        <seg>Необходимые условия для установки OmegaT
+=============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,6 +17034,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120501Z" creationid="Kos Ivantsov" creationdate="20171114T120430Z">
+        <seg>Лицензии, по которым они распространяются, указаны в файле
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T112118Z" creationid="abashkinl" creationdate="20170316T112118Z">
@@ -19648,6 +19708,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120037Z" creationid="Kos Ivantsov" creationdate="20171114T120025Z">
+        <seg>Что собой представляет OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T101538Z" creationid="abashkinl" creationdate="20161012T101538Z">
@@ -20200,6 +20268,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Подробная статистика содержится в файле:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T120346Z" creationid="Kos Ivantsov" creationdate="20171114T120313Z">
+        <seg>Полный текст лицензии представлен в файле
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
