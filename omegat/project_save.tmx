@@ -1379,9 +1379,8 @@
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211640Z" creationid="Kos Ivantsov" creationdate="20171114T211640Z">
-        <seg>(Если вы считаете, что внесли серьезный вклад в развитие проекта OmegaT,
-но не видите своего имени в списке, пожалуйста, сообщите нам об этом).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215515Z" creationid="Kos Ivantsov" creationdate="20171114T211640Z">
+        <seg>(Если вы считаете, что внесли серьезный вклад в развитие проекта OmegaT, но не видите своего имени в списке, пожалуйста, сообщите нам об этом).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,9 +7186,8 @@ project_save.tmx не был выгружен и SVN переключилась 
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212815Z" creationid="Kos Ivantsov" creationdate="20171114T155544Z">
-        <seg>Для более удобного запуска OmegaT можно использовать
-входящий в пакет установки скрипт на языке Kaptain (omegat.kaptn).</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215438Z" creationid="Kos Ivantsov" creationdate="20171114T155544Z">
+        <seg>Для более удобного запуска OmegaT можно использовать входящий в пакет установки скрипт на языке Kaptain (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8149,10 +8147,8 @@ script provided (omegat.kaptn).</seg>
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212847Z" creationid="Kos Ivantsov" creationdate="20171114T160143Z">
-        <seg>Если Java установлена на уровне системы и путь к исполняемому файлу
-добавлен к переменной PATH, то при запуске OmegaT полный путь к Java
-вводить не обязательно.)</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215510Z" creationid="Kos Ivantsov" creationdate="20171114T160143Z">
+        <seg>Если Java установлена на уровне системы и путь к исполняемому файлу добавлен к переменной PATH, то при запуске OmegaT полный путь к Java вводить не обязательно.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8423,9 +8419,8 @@ their defaults as a result of the location change.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212753Z" creationid="Kos Ivantsov" creationdate="20171114T155032Z">
-        <seg>Если в файловом менеджере (Проводнике Windows) вы видите только файл OmegaT,
-а не OmegaT.exe, то включите отображение расширений файлов в настройках Проводника Windows.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215417Z" creationid="Kos Ivantsov" creationdate="20171114T155032Z">
+        <seg>Если в файловом менеджере (Проводнике Windows) вы видите только файл OmegaT, а не OmegaT.exe, то включите отображение расширений файлов в настройках Проводника Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8521,9 +8516,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212800Z" creationid="Kos Ivantsov" creationdate="20171114T155426Z">
-        <seg>Если вы воспользовались скриптом установки linux-install.sh,
-то вы можете запустить OmegaT, нажав</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215430Z" creationid="Kos Ivantsov" creationdate="20171114T155426Z">
+        <seg>Если вы воспользовались скриптом установки linux-install.sh, то вы можете запустить OmegaT, нажав</seg>
       </tuv>
     </tu>
     <tu>
@@ -8539,9 +8533,8 @@ is to use Java Web Start.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154431Z" creationid="Kos Ivantsov" creationdate="20171114T154423Z">
-        <seg>Если во время установки на рабочем столе был создан ярлык, то просто
-дважды щелкните по нему мышью.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215408Z" creationid="Kos Ivantsov" creationdate="20171114T154423Z">
+        <seg>Если во время установки на рабочем столе был создан ярлык, то просто дважды щелкните по нему мышью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,9 +9431,8 @@ inside the configuration folder.</seg>
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212744Z" creationid="Kos Ivantsov" creationdate="20171114T153749Z">
-        <seg>В результате на ваш компьютер будут установлены компоненты, необходимые
-для работы OmegaT, и само приложение.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215405Z" creationid="Kos Ivantsov" creationdate="20171114T153749Z">
+        <seg>В результате на ваш компьютер будут установлены компоненты, необходимые для работы OmegaT, и само приложение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14308,9 +14300,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211808Z" creationid="Kos Ivantsov" creationdate="20171114T211808Z">
-        <seg>Запросы на новые возможности (на английском языке)
-можно разместить на SourceForge:</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215603Z" creationid="Kos Ivantsov" creationdate="20171114T211808Z">
+        <seg>Запросы на новые возможности (на английском языке) можно разместить на трекере SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17363,9 +17354,8 @@ instead.</seg>
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154518Z" creationid="Kos Ivantsov" creationdate="20171114T154518Z">
-        <seg>Программа установки может создать ярлыки в меню «Пуск», на рабочем столе
-и на панели быстрого запуска.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215410Z" creationid="Kos Ivantsov" creationdate="20171114T154518Z">
+        <seg>Программа установки может создать ярлыки в меню «Пуск», на рабочем столе и на панели быстрого запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18665,10 +18655,8 @@ terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
 install.sh.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T133806Z" creationid="Kos Ivantsov" creationdate="20171114T133806Z">
-        <seg>Для этого откройте окно эмулятора терминала (консоль), перейдите в папку,
-содержащую OmegaT.jar и linux-install.sh,
-и запустите скрипт командой sudo ./linux-install.sh или su -c "./linux-install.sh".</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215357Z" creationid="Kos Ivantsov" creationdate="20171114T133806Z">
+        <seg>Для этого откройте окно эмулятора терминала (консоль), перейдите в папку, содержащую OmegaT.jar и linux-install.sh, и запустите скрипт командой sudo ./linux-install.sh или su -c "./linux-install.sh".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19775,9 +19763,8 @@ on line {1}, column {2}.</seg>
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211739Z" creationid="Kos Ivantsov" creationdate="20171114T211739Z">
-        <seg>Поддержка пользователей осуществляется в многоязычной почтовой рассылке на Yahoo
-(архивы рассылки доступны без подписки):</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215527Z" creationid="Kos Ivantsov" creationdate="20171114T211739Z">
+        <seg>Поддержка пользователей осуществляется в многоязычной почтовой рассылке на Yahoo (архивы рассылки доступны без подписки):</seg>
       </tuv>
     </tu>
     <tu>
@@ -20696,9 +20683,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
         <seg>You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212940Z" creationid="Kos Ivantsov" creationdate="20171114T155256Z">
-        <seg>Кроме того, OmegaT можно запустить
-из результатов поиска Spotlight.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215425Z" creationid="Kos Ivantsov" creationdate="20171114T155256Z">
+        <seg>Кроме того, OmegaT можно запустить из результатов поиска Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20707,9 +20693,8 @@ it from the Spotlight search field.</seg>
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T154631Z" creationid="Kos Ivantsov" creationdate="20171114T154631Z">
-        <seg>Кроме того, можно вручную создать ярлык для запуска, перетащив файл OmegaT.exe
-в меню «Пуск», на рабочий стол или на панель быстрого запуска.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215414Z" creationid="Kos Ivantsov" creationdate="20171114T154631Z">
+        <seg>Кроме того, можно вручную создать ярлык для запуска, перетащив файл OmegaT.exe в меню «Пуск», на рабочий стол или на панель быстрого запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20843,9 +20828,8 @@ linux-install.sh.</seg>
         <seg>You may drag the OmegaT application to your dock or to the tool bar of a
 Finder window to be able to launch it from any location.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T212933Z" creationid="Kos Ivantsov" creationdate="20171114T155154Z">
-        <seg>Для удобства запуска просто перетащите приложение OmegaT в док
-или на панель Finder.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T215421Z" creationid="Kos Ivantsov" creationdate="20171114T155154Z">
+        <seg>Для удобства запуска просто перетащите приложение OmegaT в док или на панель Finder.</seg>
       </tuv>
     </tu>
     <tu>
