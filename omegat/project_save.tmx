@@ -14580,8 +14580,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171115T100322Z" creationid="abashkinl" creationdate="20161011T081738Z">
-        <seg>Программа запуще на Java {0} ({1}-бит)п</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171115T100515Z" creationid="abashkinl" creationdate="20161011T081738Z">
+        <seg>Программа запущена на Java {0} ({1}-бит)п</seg>
       </tuv>
     </tu>
     <tu>
