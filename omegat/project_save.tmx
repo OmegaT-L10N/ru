@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10161M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_3b4258e0e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13297,16 +13297,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Нажмите &lt;u&gt;{0}&lt;/u&gt;, чтобы перейти к &lt;b&gt;{1}&lt;/b&gt; предложениям.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171115T100424Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Нажмите &lt;u&gt;{0}&lt;/u&gt;, чтобы перейти к подсказкам «&lt;b&gt;{1}&lt;/b&gt;».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Нажмите &lt;u&gt;{0}&lt;/u&gt;, чтобы вернуться к &lt;b&gt;{1}&lt;/b&gt; предложениям.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171115T100352Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Нажмите &lt;u&gt;{0}&lt;/u&gt;, чтобы вернуться к подсказкам «&lt;b&gt;{1}&lt;/b&gt;».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14580,8 +14580,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T081738Z" creationid="abashkinl" creationdate="20161011T081738Z">
-        <seg>Работает на Java {0} ({1}-бит)</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171115T100322Z" creationid="abashkinl" creationdate="20161011T081738Z">
+        <seg>Программа запуще на Java {0} ({1}-бит)п</seg>
       </tuv>
     </tu>
     <tu>
