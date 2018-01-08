@@ -1750,6 +1750,14 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T142051Z" creationid="Lev Abashkin" creationdate="20180108T142051Z">
+        <seg>- Сочетание клавиш Ctrl+M (или Command+M на Mac) заменяет перевод текущего сегмента его машинным переводом.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125501Z" creationid="Lev Abashkin" creationdate="20180108T125501Z">
@@ -1842,6 +1850,14 @@ OmegaT 3.6 для работы с этим проектом
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T132032Z" creationid="Lev Abashkin" creationdate="20180108T132032Z">
         <seg>- Когда вы будете выбирать сегменты, их перевод будет отображаться в окне Machine Translation OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T142153Z" creationid="Lev Abashkin" creationdate="20180108T142153Z">
+        <seg>- Вы можете проверить ваш лимит в вашей учётной записи, перейдя по ссылке выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2323,6 +2339,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T230823Z" creationid="abashkinl" creationdate="20170311T230823Z">
         <seg>&lt;a0&gt;Спонсирование разработки уже привело к реализации некоторых возможностей.&lt;/a0&gt; Если вы готовы профинансировать работу над желаемой функциональностью, пожалуйста, свяжитесь с командой разработчиков в частном порядке для получения расценки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T142056Z" creationid="Lev Abashkin" creationdate="20180108T142056Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5345,6 +5369,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T120006Z" creationid="abashkinl" creationdate="20170318T120006Z">
         <seg>Copyright Милан Губачек и Марк Прайор 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T142404Z" creationid="Lev Abashkin" creationdate="20180108T142404Z">
+        <seg>Copyright Уилл Хелтон и команда локализации OmegaT на японский язык 2012–2015&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17786,6 +17818,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T142309Z" creationid="Lev Abashkin" creationdate="20180108T142309Z">
+        <seg>Поле «Status» показывает остаток лимита, например, «1,998,890 Characters remaining».&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T180622Z" creationid="abashkinl" creationdate="20170315T175844Z">
@@ -22786,6 +22826,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124247Z" creationid="Lev Abashkin" creationdate="20180108T124247Z">
         <seg>   - Client secret: Используйте значение, показанное по умолчанию&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T141950Z" creationid="Lev Abashkin" creationdate="20180108T141950Z">
+        <seg>   - Если в окне машинного перевода появляется сообщение «Неверный запрос», проверьте правильность значений «Client ID» и «Client secret».&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
