@@ -46,6 +46,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120900Z" creationid="Lev Abashkin" creationdate="20180108T120900Z">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121259Z" creationid="Lev Abashkin" creationdate="20180108T121259Z">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121012Z" creationid="Lev Abashkin" creationdate="20180108T121012Z">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121332Z" creationid="Lev Abashkin" creationdate="20180108T121332Z">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1526,6 +1566,14 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(where "xxxxx" is the API key provided by Google).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121107Z" creationid="Lev Abashkin" creationdate="20180108T121107Z">
+        <seg>(где «xxxxx» — это ключ API, предоставленный Google).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T142612Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1702,6 +1750,14 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121216Z" creationid="Lev Abashkin" creationdate="20180108T121216Z">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -1783,6 +1839,94 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120823Z" creationid="Lev Abashkin" creationdate="20180108T120823Z">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.10</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121146Z" creationid="Lev Abashkin" creationdate="20180108T121146Z">
+        <seg>3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121150Z" creationid="Lev Abashkin" creationdate="20180108T121150Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120827Z" creationid="Lev Abashkin" creationdate="20180108T120827Z">
+        <seg>3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120833Z" creationid="Lev Abashkin" creationdate="20180108T120833Z">
+        <seg>3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120837Z" creationid="Lev Abashkin" creationdate="20180108T120837Z">
+        <seg>3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121111Z" creationid="Lev Abashkin" creationdate="20180108T121111Z">
+        <seg>3.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121116Z" creationid="Lev Abashkin" creationdate="20180108T121116Z">
+        <seg>3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.7.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121134Z" creationid="Lev Abashkin" creationdate="20180108T121134Z">
+        <seg>3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.8.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121138Z" creationid="Lev Abashkin" creationdate="20180108T121138Z">
+        <seg>3.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121142Z" creationid="Lev Abashkin" creationdate="20180108T121142Z">
+        <seg>3.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170906T212834Z" creationid="Kos Ivantsov" creationdate="20170906T212834Z">
@@ -1791,10 +1935,42 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121155Z" creationid="Lev Abashkin" creationdate="20180108T121155Z">
+        <seg>4.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121159Z" creationid="Lev Abashkin" creationdate="20180108T121159Z">
+        <seg>4.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121206Z" creationid="Lev Abashkin" creationdate="20180108T121206Z">
+        <seg>4.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T191937Z" creationid="Kos Ivantsov" creationdate="20171111T191937Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121122Z" creationid="Lev Abashkin" creationdate="20180108T121122Z">
+        <seg>5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2981,6 +3157,22 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Анализ строк: {0} из {1} завершено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121001Z" creationid="Lev Abashkin" creationdate="20180108T121001Z">
+        <seg>И удалите символ «#» в начале строки -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121251Z" creationid="Lev Abashkin" creationdate="20180108T121251Z">
+        <seg>И удалите символ «#» в начале строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,6 +7363,22 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="abashkinl" creationdate="20161011T092305Z">
         <seg>Фильтры…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121445Z" creationid="Lev Abashkin" creationdate="20180108T121445Z">
+        <seg>Найдите файл OmegaT.app/Contents/MacOS/OmegaT.sh и откройте его в текстовом редакторе на ваш выбор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120856Z" creationid="Lev Abashkin" creationdate="20180108T120856Z">
+        <seg>Найдите следующие строки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15122,6 +15330,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121347Z" creationid="Lev Abashkin" creationdate="20180108T121347Z">
+        <seg>Сохраните OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18735,6 +18951,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121325Z" creationid="Lev Abashkin" creationdate="20180108T121325Z">
+        <seg>Эта строка определяет GOOGLE_API_KEY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T080601Z" creationid="abashkinl" creationdate="20170317T080601Z">
@@ -21786,6 +22010,14 @@ create its configuration folder.</seg>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170923T140901Z" creationid="Lev Abashkin" creationdate="20170906T085756Z">
         <seg>init &lt;язык оригинала&gt; &lt;язык перевода&gt;
 		создание минимального командного проекта с указанными языками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T121220Z" creationid="Lev Abashkin" creationdate="20180108T121220Z">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
