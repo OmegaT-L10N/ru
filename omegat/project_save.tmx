@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10217M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7832,6 +7832,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T105445Z" creationid="Lev Abashkin" creationdate="20180108T105445Z">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094523Z" creationid="Lev Abashkin" creationdate="20170906T094523Z">
@@ -12438,6 +12446,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T105455Z" creationid="Lev Abashkin" creationdate="20180108T105455Z">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T140806Z" creationid="abashkinl" creationdate="20161011T083132Z">
@@ -13828,6 +13844,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T151208Z" creationid="abashkinl" creationdate="20170104T151202Z">
         <seg>Файлы RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T105518Z" creationid="Lev Abashkin" creationdate="20180108T105518Z">
+        <seg>RTF (Rich Text Format):</seg>
       </tuv>
     </tu>
     <tu>
@@ -18833,6 +18857,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T210728Z" creationid="abashkinl" creationdate="20170318T210728Z">
         <seg>Trados «неочищенный RTF»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados TTX</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T105531Z" creationid="Lev Abashkin" creationdate="20180108T105531Z">
+        <seg>Trados TTX</seg>
       </tuv>
     </tu>
     <tu>
