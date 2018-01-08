@@ -21556,10 +21556,106 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120600Z" creationid="Lev Abashkin" creationdate="20180108T120600Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120603Z" creationid="Lev Abashkin" creationdate="20180108T120603Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120512Z" creationid="Lev Abashkin" creationdate="20180108T120512Z">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120612Z" creationid="Lev Abashkin" creationdate="20180108T120612Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120614Z" creationid="Lev Abashkin" creationdate="20180108T120614Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120606Z" creationid="Lev Abashkin" creationdate="20180108T120606Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120609Z" creationid="Lev Abashkin" creationdate="20180108T120609Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120523Z" creationid="Lev Abashkin" creationdate="20180108T120523Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120526Z" creationid="Lev Abashkin" creationdate="20180108T120526Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120519Z" creationid="Lev Abashkin" creationdate="20180108T120519Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120516Z" creationid="Lev Abashkin" creationdate="20180108T120516Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/omegat</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T222831Z" creationid="abashkinl" creationdate="20170311T222831Z">
         <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120529Z" creationid="Lev Abashkin" creationdate="20180108T120529Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21576,6 +21672,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T153548Z" creationid="Kos Ivantsov" creationdate="20171114T153548Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T120617Z" creationid="Lev Abashkin" creationdate="20180108T120617Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
