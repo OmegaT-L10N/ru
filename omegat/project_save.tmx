@@ -86,6 +86,54 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125005Z" creationid="Lev Abashkin" creationdate="20180108T125005Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125518Z" creationid="Lev Abashkin" creationdate="20180108T125518Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125151Z" creationid="Lev Abashkin" creationdate="20180108T125151Z">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131648Z" creationid="Lev Abashkin" creationdate="20180108T131648Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1574,6 +1622,14 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123516Z" creationid="Lev Abashkin" creationdate="20180108T123516Z">
+        <seg>* Если у вас ещё нет учётной записи Microsoft, вам нужно её сначала создать.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T142612Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -1590,6 +1646,70 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123427Z" creationid="Lev Abashkin" creationdate="20180108T123427Z">
+        <seg>- Откройте указанный веб-сайт и авторизуйтесь в Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131730Z" creationid="Lev Abashkin" creationdate="20180108T131730Z">
+        <seg>- Добавьте следующие аргументы для запуска OmegaT (где Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125032Z" creationid="Lev Abashkin" creationdate="20180108T125032Z">
+        <seg>- После изменения OmegaT.l4J.ini (где Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131638Z" creationid="Lev Abashkin" creationdate="20180108T131638Z">
+        <seg>- После изменения OmegaT.sh (где Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124506Z" creationid="Lev Abashkin" creationdate="20180108T124506Z">
+        <seg>- После регистрации убедитесь, что ваше приложение отображается в списке "Registered Applications".&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123557Z" creationid="Lev Abashkin" creationdate="20180108T123557Z">
+        <seg>- После авторизации в Microsoft Azure Marketplace вы можете оформить подписку для использования Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125000Z" creationid="Lev Abashkin" creationdate="20180108T125000Z">
+        <seg>- До изменения OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125514Z" creationid="Lev Abashkin" creationdate="20180108T125514Z">
+        <seg>- До изменения OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T125511Z" creationid="abashkinl" creationdate="20170318T125511Z">
@@ -1598,10 +1718,138 @@ OmegaT 3.6 для работы с этим проектом
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131927Z" creationid="Lev Abashkin" creationdate="20180108T131927Z">
+        <seg>- Отметьте [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124023Z" creationid="Lev Abashkin" creationdate="20180108T124023Z">
+        <seg>- Нажмите [DEVELOPERS] в левом мюню "my account".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123958Z" creationid="Lev Abashkin" creationdate="20180108T123958Z">
+        <seg>- Нажмите [My Account] в верхней части страницы.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124059Z" creationid="Lev Abashkin" creationdate="20180108T124059Z">
+        <seg>- Нажмите [REGISTER] под "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125501Z" creationid="Lev Abashkin" creationdate="20180108T125501Z">
+        <seg>- Найдите файл OmegaT.app/Contents/MacOS/OmegaT.sh и измените следующие строки в любом редакторе простого текста:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131800Z" creationid="Lev Abashkin" creationdate="20180108T131800Z">
+        <seg>- Запустите OmegaT и откройте ваш проект.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124935Z" creationid="Lev Abashkin" creationdate="20180108T124935Z">
+        <seg>- Найдите файл OmegaT.l4J.ini (в папке программы OmegaT) и измените следующие строки в любом редакторе простого текста:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124746Z" creationid="Lev Abashkin" creationdate="20180108T124746Z">
+        <seg>- OmegaT использует «Client ID» и «Client secret» из данных вашей учётной записи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124126Z" creationid="Lev Abashkin" creationdate="20180108T124126Z">
+        <seg>- Зарегистрируйте приложение со следующими данными:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125145Z" creationid="Lev Abashkin" creationdate="20180108T125145Z">
+        <seg>- Удалите «#» в началах строк и замените «xxxxx» вашими «Client ID» and «Client secret».&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125403Z" creationid="Lev Abashkin" creationdate="20180108T125403Z">
+        <seg>- Вызовите контекстное меню на OmegaT.app и выберите «Показать содержимое пакета».&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T125204Z" creationid="Lev Abashkin" creationdate="20180108T125204Z">
+        <seg>- Сохраните OmegaT.l4J.ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131658Z" creationid="Lev Abashkin" creationdate="20180108T131658Z">
+        <seg>- Сохраните OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131914Z" creationid="Lev Abashkin" creationdate="20180108T131859Z">
+        <seg>- Выберите [Параметры] &gt; [Машинный перевод]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T125600Z" creationid="abashkinl" creationdate="20170318T125600Z">
-        <seg>- Чтобы пользоваться API Microsoft Translator, вам нужно зарегистрировать ваше приложение в Microsoft Azure Marketplace.</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123224Z" creationid="abashkinl" creationdate="20170318T125600Z">
+        <seg>- Чтобы использовать API Microsoft Translator, вам нужно зарегистрировать ваше приложение в Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T132032Z" creationid="Lev Abashkin" creationdate="20180108T132032Z">
+        <seg>- Когда вы будете выбирать сегменты, их перевод будет отображаться в окне Machine Translation OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123648Z" creationid="Lev Abashkin" creationdate="20180108T123648Z">
+        <seg>- Вы можете выбрать любой из доступных вариантов подписки, показанных в правой части страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2079,6 +2327,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123324Z" creationid="Lev Abashkin" creationdate="20180108T123324Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124516Z" creationid="Lev Abashkin" creationdate="20180108T124516Z">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T194147Z" creationid="abashkinl" creationdate="20170318T194147Z">
@@ -2091,6 +2355,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171113T195901Z" creationid="Kos Ivantsov" creationdate="20171113T195901Z">
         <seg>&lt;a2&gt;LibreOffice&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124029Z" creationid="Lev Abashkin" creationdate="20180108T124029Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2139,6 +2411,54 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T093538Z" creationid="abashkinl" creationdate="20170312T093538Z">
         <seg>&lt;b0&gt;Использовать как перевод по умолчанию&lt;/b0&gt;: делает перевод текущего сегмента переводом по умолчанию и использует его для всех подходящих идентичных сегментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124938Z" creationid="Lev Abashkin" creationdate="20180108T124938Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124511Z" creationid="Lev Abashkin" creationdate="20180108T124511Z">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123331Z" creationid="Lev Abashkin" creationdate="20180108T123331Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123431Z" creationid="Lev Abashkin" creationdate="20180108T123431Z">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124033Z" creationid="Lev Abashkin" creationdate="20180108T124033Z">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123521Z" creationid="Lev Abashkin" creationdate="20180108T123521Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,6 +9282,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T123934Z" creationid="Lev Abashkin" creationdate="20180108T123934Z">
+        <seg>Если вы хотите выбрать базовый вариант подписки (бесплатный, до 2 миллионов символов в месяц) нажмите [SIGN UP] вверху списка вариантов подписки.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T124745Z" creationid="Kos Ivantsov" creationdate="20170918T124745Z">
@@ -12742,8 +13070,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T171844Z" creationid="Lev Abashkin" creationdate="20170924T171844Z">
-        <seg>OmegaT использует "ID клиента" и "секрет клиента" из вашей учётной записи.&lt;br1/&gt;</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124803Z" creationid="Lev Abashkin" creationdate="20170924T171844Z">
+        <seg>OmegaT использует «Client ID"» и «Client secret» из вашей учётной записи.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22046,6 +22374,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T131735Z" creationid="Lev Abashkin" creationdate="20180108T131735Z">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T122954Z" creationid="Lev Abashkin" creationdate="20180108T122954Z">
@@ -22434,6 +22770,38 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T074900Z" creationid="Lev Abashkin" creationdate="20170924T074900Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124201Z" creationid="Lev Abashkin" creationdate="20180108T124201Z">
+        <seg>   - Client ID: Любая строка, например, my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124247Z" creationid="Lev Abashkin" creationdate="20180108T124247Z">
+        <seg>   - Client secret: Используйте значение, показанное по умолчанию&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124219Z" creationid="Lev Abashkin" creationdate="20180108T124219Z">
+        <seg>   - Name: Любая строка, например, my_application01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T124420Z" creationid="Lev Abashkin" creationdate="20180108T124420Z">
+        <seg>   - Redirect URI: Любая ссылка (неверный URL требуется при использовании Microsoft Translator), например, http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
