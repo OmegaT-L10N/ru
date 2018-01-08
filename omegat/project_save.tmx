@@ -1879,6 +1879,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113315Z" creationid="Lev Abashkin" creationdate="20180108T113315Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T230823Z" creationid="abashkinl" creationdate="20170311T230823Z">
@@ -3536,6 +3544,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170928T204439Z" creationid="Kos Ivantsov" creationdate="20170928T204439Z">
         <seg>Обозреватель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113734Z" creationid="Lev Abashkin" creationdate="20180108T113734Z">
+        <seg>Плагин браузера</seg>
       </tuv>
     </tu>
     <tu>
@@ -6911,6 +6927,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113624Z" creationid="Lev Abashkin" creationdate="20180108T113624Z">
+        <seg>Быстрый доступ к веб-сайтам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T082032Z" creationid="Lev Abashkin" creationdate="20170918T082032Z">
@@ -9757,6 +9781,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113301Z" creationid="Lev Abashkin" creationdate="20180108T113301Z">
+        <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -11756,6 +11788,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113311Z" creationid="Lev Abashkin" creationdate="20180108T113311Z">
+        <seg>Okapi Framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170918T123450Z" creationid="Kos Ivantsov" creationdate="20170918T123450Z">
@@ -12378,6 +12418,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T171310Z" creationid="abashkinl" creationdate="20170315T171310Z">
         <seg>Как только он был скопирован или связан ссылкой с вашим системным путём (происходит автоматически при использовании поставляемого установочного скрипта), вы можете запускать OmegaT с помощью нажатия &lt;i0&gt;Alt+F2&lt;/i0&gt;, ввода команды &lt;i1&gt;omegat&lt;/i1&gt; и подтверждения клавишей «Ввод».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113348Z" creationid="Lev Abashkin" creationdate="20180108T113348Z">
+        <seg>Ondiloto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13420,6 +13468,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20170929T131552Z" creationid="Kos Ivantsov" creationdate="20170929T131552Z">
         <seg>Принципы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priorview</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113344Z" creationid="Lev Abashkin" creationdate="20180108T113344Z">
+        <seg>Priorview</seg>
       </tuv>
     </tu>
     <tu>
@@ -16271,6 +16327,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113357Z" creationid="Lev Abashkin" creationdate="20180108T113357Z">
+        <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SubRip Subtitles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -16415,6 +16479,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113353Z" creationid="Lev Abashkin" creationdate="20180108T113353Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T153536Z" creationid="abashkinl" creationdate="20170317T153536Z">
@@ -16467,6 +16539,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T191035Z" creationid="abashkinl" creationdate="20170318T191035Z">
         <seg>Файлы TMX, созданные в Windows, могут начинаться с маркера последовательности байтов (BOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113335Z" creationid="Lev Abashkin" creationdate="20180108T113335Z">
+        <seg>TMXCleaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113338Z" creationid="Lev Abashkin" creationdate="20180108T113338Z">
+        <seg>TMXMerger</seg>
       </tuv>
     </tu>
     <tu>
@@ -18805,6 +18893,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113332Z" creationid="Lev Abashkin" creationdate="20180108T113332Z">
+        <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic for Linux</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T162918Z" creationid="abashkinl" creationdate="20170317T162918Z">
@@ -20222,6 +20318,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113719Z" creationid="Lev Abashkin" creationdate="20180108T113719Z">
+        <seg>Поддержка веб-сайтов может быть настроена с помощью скриптов Groovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T200727Z" creationid="abashkinl" creationdate="20170311T200727Z">
@@ -21064,6 +21168,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>атрибутов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113305Z" creationid="Lev Abashkin" creationdate="20180108T113305Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
