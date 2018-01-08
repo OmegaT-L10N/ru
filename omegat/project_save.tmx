@@ -11047,6 +11047,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T113837Z" creationid="Lev Abashkin" creationdate="20180108T113837Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114009Z" creationid="Lev Abashkin" creationdate="20180108T114009Z">
+        <seg>URL сервера Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T175431Z" creationid="abashkinl" creationdate="20170312T175431Z">
@@ -11736,6 +11752,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114819Z" creationid="Lev Abashkin" creationdate="20170924T114819Z">
         <seg>ODFAuthors и команда переводчиков LibreOffice на итальянский язык гордятся, что могут использовать такой замечательный инструмент для своей нелёгкой работы в LibreOffice Community.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114043Z" creationid="Lev Abashkin" creationdate="20180108T114043Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -15533,6 +15557,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114111Z" creationid="Lev Abashkin" creationdate="20180108T114111Z">
+        <seg>Сервер не понимает метод "translate".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T082215Z" creationid="abashkinl" creationdate="20161011T082215Z">
@@ -16831,6 +16863,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114039Z" creationid="Lev Abashkin" creationdate="20180108T114039Z">
+        <seg>Проверка…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -17054,6 +17094,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T122254Z" creationid="abashkinl" creationdate="20170316T122254Z">
         <seg>С файлами Microsoft Office 2007-2010 можно работать непосредственно в OmegaT; с дополнительной информацией можно ознакомиться &lt;a0&gt;здесь&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114027Z" creationid="Lev Abashkin" creationdate="20180108T114027Z">
+        <seg>URL сервера Moses не установлен.</seg>
       </tuv>
     </tu>
     <tu>
