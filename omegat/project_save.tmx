@@ -18237,8 +18237,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The script is available for the Windows platform only.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T080008Z" creationid="abashkinl" creationdate="20170312T080008Z">
-        <seg>Скрипт работает только на Windows.</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T122734Z" creationid="abashkinl" creationdate="20170312T080008Z">
+        <seg>Скрипт работает только в Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22210,6 +22210,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T114328Z" creationid="abashkinl" creationdate="20170318T114328Z">
         <seg>где "XXXXXXXX" это ваш API-ключ переводчика Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T122749Z" creationid="Lev Abashkin" creationdate="20180108T122749Z">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
       </tuv>
     </tu>
     <tu>
