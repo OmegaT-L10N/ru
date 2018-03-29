@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_3_10270M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5677,6 +5677,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075611Z" creationid="Lev Abashkin" creationdate="20180329T075611Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075638Z" creationid="Lev Abashkin" creationdate="20180329T075638Z">
+        <seg>Ключ API DeepL не доступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -6049,6 +6065,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T140347Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Показывать сегменты &amp;оригинала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075755Z" creationid="Lev Abashkin" creationdate="20180329T075755Z">
+        <seg>Отображать &amp;активный исходный сегмент полужирным шрифтом</seg>
       </tuv>
     </tu>
     <tu>
@@ -15820,6 +15844,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075355Z" creationid="Lev Abashkin" creationdate="20180329T075355Z">
+        <seg>Файлы Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20678,6 +20710,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075339Z" creationid="Lev Abashkin" creationdate="20180329T075339Z">
+        <seg>Чтобы обратиться к группе n используйте обращение $n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T150830Z" creationid="abashkinl" creationdate="20170104T150830Z">
@@ -21274,6 +21314,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T090035Z" creationid="Lev Abashkin" creationdate="20170924T090035Z">
         <seg>При использовании регулярных выражений строка замены не поддерживает ссылки на группы, указанные в строке поиска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T075249Z" creationid="Lev Abashkin" creationdate="20180329T075249Z">
+        <seg>При использовании регулярных выражений строка замены поддерживает обращение к группам, определённым в строке поиска.</seg>
       </tuv>
     </tu>
     <tu>
