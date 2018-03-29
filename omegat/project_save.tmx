@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_013d9ed8b" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2853,6 +2853,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072146Z" creationid="Lev Abashkin" creationdate="20170927T072146Z">
         <seg>О проекте</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T080337Z" creationid="Lev Abashkin" creationdate="20180329T080337Z">
+        <seg>Об OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6009,6 +6017,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T114651Z" creationid="Lev Abashkin" creationdate="20170924T114651Z">
         <seg>Диего Мерино - переводчик EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180329T080403Z" creationid="Lev Abashkin" creationdate="20180329T080403Z">
+        <seg>Diego Merino Traducciones</seg>
       </tuv>
     </tu>
     <tu>
