@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_013d9ed8b" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12678,8 +12678,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T203745Z" creationid="abashkinl" creationdate="20170311T203745Z">
-        <seg>OmegaT</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20180402T090901Z" creationid="abashkinl" creationdate="20170311T203745Z">
+        <seg>OmegaT	</seg>
       </tuv>
     </tu>
     <tu>
