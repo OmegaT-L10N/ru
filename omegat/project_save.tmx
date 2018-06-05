@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_c4dfdf6a7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -366,6 +366,22 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063804Z" creationid="Lev Abashkin" creationdate="20180605T063804Z">
+        <seg>Проверить о&amp;бновление…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063651Z" creationid="Lev Abashkin" creationdate="20180605T063651Z">
+        <seg>От&amp;чистить список</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -634,6 +650,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>П&amp;ереход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064545Z" creationid="Lev Abashkin" creationdate="20180605T064545Z">
+        <seg>Перейти на страницу &amp;загрузки</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2543,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064603Z" creationid="Lev Abashkin" creationdate="20180605T064603Z">
+        <seg>&lt;html&gt;Текущая версия: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -2547,6 +2579,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T090804Z" creationid="Lev Abashkin" creationdate="20170924T090804Z">
         <seg>&lt;html&gt;Термин: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Глоссарии:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064618Z" creationid="Lev Abashkin" creationdate="20180605T064618Z">
+        <seg>&lt;html&gt;Канал обновлений: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3852,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064632Z" creationid="Lev Abashkin" creationdate="20180605T064632Z">
+        <seg>Автоматически проверять обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T154415Z" creationid="abashkinl" creationdate="20170104T154415Z">
@@ -4564,6 +4612,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064458Z" creationid="Lev Abashkin" creationdate="20180605T064458Z">
+        <seg>Проверять &amp;автоматически</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T075636Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4584,6 +4640,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T142805Z" creationid="abashkinl" creationdate="20161011T141651Z">
         <seg>Поиск ошибок в текущем &amp;документе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064638Z" creationid="Lev Abashkin" creationdate="20180605T064638Z">
+        <seg>Проверить сейчас</seg>
       </tuv>
     </tu>
     <tu>
@@ -5393,6 +5457,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081608Z" creationid="Lev Abashkin" creationdate="20170918T081608Z">
         <seg>Copyright © 2000-2017 Кит Годфри, Максим Михальчук и другие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064222Z" creationid="Lev Abashkin" creationdate="20180605T064213Z">
+        <seg>Copyright © 2000–2018 Кит Годфри, Максим Михальчук и другие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063906Z" creationid="Lev Abashkin" creationdate="20180605T063906Z">
+        <seg>Невозможно создать папку проекта в {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8920,6 +9000,22 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064232Z" creationid="Lev Abashkin" creationdate="20180605T064232Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064322Z" creationid="Lev Abashkin" creationdate="20180605T064322Z">
+        <seg>IBM Watson не доступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T073718Z" creationid="abashkinl" creationdate="20161012T073718Z">
@@ -9927,6 +10023,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114518Z" creationid="Lev Abashkin" creationdate="20180108T114518Z">
         <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063933Z" creationid="Lev Abashkin" creationdate="20180605T063933Z">
+        <seg>Недостаточно прав для папки проекта {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12080,6 +12184,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064719Z" creationid="Lev Abashkin" creationdate="20180605T064719Z">
+        <seg>Машинный перевод с помощью нейросети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064814Z" creationid="Lev Abashkin" creationdate="20180605T064814Z">
+        <seg>Машинный перевод с помощью нейросети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T185620Z" creationid="abashkinl" creationdate="20170106T215457Z">
@@ -12788,6 +12908,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064005Z" creationid="Lev Abashkin" creationdate="20180605T064005Z">
+        <seg>У OmegaT нет прав на чтение и запись в этой папке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T164921Z" creationid="abashkinl" creationdate="20170315T164921Z">
@@ -13250,6 +13378,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170315T173823Z" creationid="abashkinl" creationdate="20170315T173823Z">
         <seg>OmegaT обычно запускается на любой системе GNU/Linux, где может быть установлена подходящая версия Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064437Z" creationid="Lev Abashkin" creationdate="20180605T064417Z">
+        <seg>Доступна OmegaT {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13722,6 +13858,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T073651Z" creationid="abashkinl" creationdate="20161012T073651Z">
         <seg>В порядке парсинга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064249Z" creationid="Lev Abashkin" creationdate="20180605T064249Z">
+        <seg>Пароль:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17133,6 +17277,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064622Z" creationid="Lev Abashkin" creationdate="20180605T064622Z">
+        <seg>Стабильная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170924T110328Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18379,6 +18531,14 @@ instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Следующие параметры применимы только к фильтру 3.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064139Z" creationid="Lev Abashkin" creationdate="20180605T064040Z">
+        <seg>Эти опции не будут работать если отмечена "Совместимость с OmegaT 2.6"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20694,6 +20854,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064549Z" creationid="Lev Abashkin" creationdate="20180605T064549Z">
+        <seg>Обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20908,6 +21076,14 @@ searchable without subscription:</seg>
         <seg>User:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Имя пользователя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064245Z" creationid="Lev Abashkin" creationdate="20180605T064245Z">
         <seg>Имя пользователя:</seg>
       </tuv>
     </tu>
@@ -21768,6 +21944,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064355Z" creationid="Lev Abashkin" creationdate="20180605T064355Z">
+        <seg>У вас уже установлена последняя версия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T193215Z" creationid="abashkinl" creationdate="20170311T193215Z">
@@ -21941,6 +22125,14 @@ linux-install.sh.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T155626Z" creationid="Kos Ivantsov" creationdate="20171114T155626Z">
         <seg>Затем этот Kaptain-скрипт можно запустить, нажав</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T064433Z" creationid="Lev Abashkin" creationdate="20180605T064433Z">
+        <seg>Сейчас вы используете {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22866,6 +23058,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171111T200525Z" creationid="Kos Ivantsov" creationdate="20171111T200525Z">
         <seg>{0}:	очистка завершена!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063215Z" creationid="Lev Abashkin" creationdate="20180605T063215Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
