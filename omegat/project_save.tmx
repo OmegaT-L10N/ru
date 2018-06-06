@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_c4dfdf6a7" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12360,6 +12360,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20180606T203028Z" creationid="Kos Ivantsov" creationdate="20180606T203028Z">
+        <seg>Нет открытых проектов!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -14700,6 +14708,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Начало сборки проекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20180606T203048Z" creationid="Kos Ivantsov" creationdate="20180606T203048Z">
+        <seg>В проекте нет файлов.</seg>
       </tuv>
     </tu>
     <tu>
