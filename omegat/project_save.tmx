@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_c4dfdf6a7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5701,6 +5701,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183247Z" creationid="Lev Abashkin" creationdate="20180609T183247Z">
+        <seg>Текущий состав команды:
+(в алфавитном порядке)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T161015Z" creationid="abashkinl" creationdate="20161012T161015Z">
@@ -6081,6 +6091,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170311T205044Z" creationid="abashkinl" creationdate="20170311T205044Z">
         <seg>Дидье Брейль (Didier Briel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183323Z" creationid="Lev Abashkin" creationdate="20180609T183323Z">
+        <seg>Дидье Брейль (менеджер проекта OmegaT, менеджер сообщества в Twitter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10713,6 +10731,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180108T114503Z" creationid="Lev Abashkin" creationdate="20180108T114503Z">
         <seg>Kilgray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183407Z" creationid="Lev Abashkin" creationdate="20180609T183336Z">
+        <seg>Кос Иванцов (менеджер по локализации)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16791,8 +16817,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T203033Z" creationid="abashkinl" creationdate="20170104T203033Z">
-        <seg>Упросить подска&amp;зки о защищённых частях</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183601Z" creationid="abashkinl" creationdate="20170104T203033Z">
+        <seg>Упрощать подска&amp;зки о защищённых частях</seg>
       </tuv>
     </tu>
     <tu>
