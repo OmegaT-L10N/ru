@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_c4dfdf6a7" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_d923cac08" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12348,8 +12348,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Соединение не доступно, работа с проектом в автономном режиме.</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180702T140243Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Соединение недоступно, работа с проектом в автономном режиме.</seg>
       </tuv>
     </tu>
     <tu>
