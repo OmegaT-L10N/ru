@@ -1547,6 +1547,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161038Z" creationid="Lev Abashkin" creationdate="20180930T152740Z">
+        <seg>(Если используется ключ API, оставьте пароль пустым.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T155234Z" creationid="abashkinl" creationdate="20170317T155234Z">
@@ -7139,16 +7147,16 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Ошибка инициализации маркера «{0}»</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161742Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Ошибка инициализации маркера '{0}'</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Не удалось загрузить модуль из класса «{0}»: {1}: {2}</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161725Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Не удалось загрузить модуль из класса '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7219,8 +7227,8 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Не удалось выгрузить модуль из класса «{0}»: {1}</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161714Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Не удалось выгрузить модуль из класса '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,6 +7649,14 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161230Z" creationid="Lev Abashkin" creationdate="20180930T161230Z">
+        <seg>Невозможно получить информацию о последней версии: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -7851,8 +7867,8 @@ project_save.tmx не был выгружен и SVN переключилась 
       <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Не удалось загрузить фильтр «{0}» из «{1}»</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161703Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Не удалось загрузить фильтр '{0}' из '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -10545,8 +10561,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Jar, используемых для модулей: {0}</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161834Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Для загрузки модулей используется JAR-файл: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11933,6 +11949,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Отсутствующие теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T160821Z" creationid="Lev Abashkin" creationdate="20180930T160821Z">
+        <seg>Id модели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,8 +14319,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
-        <seg>Модуль, успешно загруженный из класса «{0}»</seg>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161638Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
+        <seg>Модуль успешно загружен из класса '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,6 +15270,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T164644Z" creationid="abashkinl" creationdate="20161012T164644Z">
         <seg>Внешние репозитории</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T161143Z" creationid="Lev Abashkin" creationdate="20180930T161143Z">
+        <seg>Ошибка сети при обращении к удалённому репозиторию: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21127,6 +21159,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Имя пользователя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180930T152803Z" creationid="Lev Abashkin" creationdate="20180930T152803Z">
+        <seg>Имя пользователя или ключ API:</seg>
       </tuv>
     </tu>
     <tu>
