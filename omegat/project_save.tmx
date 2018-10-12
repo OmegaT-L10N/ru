@@ -17801,6 +17801,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T113937Z" creationid="Kos Ivantsov" creationdate="20181012T113937Z">
+        <seg>Очистка тегов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T202713Z" creationid="abashkinl" creationdate="20161011T125850Z">
