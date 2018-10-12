@@ -3225,6 +3225,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114542Z" creationid="Kos Ivantsov" creationdate="20181012T114542Z">
+        <seg>Все файлы DOCX в проекте</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -3948,6 +3956,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114507Z" creationid="Kos Ivantsov" creationdate="20181012T114507Z">
+        <seg>Резервная копия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4008,6 +4024,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T075117Z" creationid="abashkinl" creationdate="20170312T075117Z">
         <seg>Обращайтесь с ними также осторожно, как и с тегами OmegaT (возможности OmegaT по работе с тегами, как то, проверка тегов, в данном случае работать не будут).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114438Z" creationid="Kos Ivantsov" creationdate="20181012T114438Z">
+        <seg>Украсить XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114526Z" creationid="Kos Ivantsov" creationdate="20181012T114526Z">
+        <seg>Украсить XML в очищенном DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4764,6 +4796,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114318Z" creationid="Kos Ivantsov" creationdate="20181012T114318Z">
+        <seg>Очищается запись «{0}»...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -5347,6 +5387,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114450Z" creationid="Kos Ivantsov" creationdate="20181012T114450Z">
+        <seg>Преобразовать</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T124520Z" creationid="abashkinl" creationdate="20161011T124520Z">
@@ -5677,6 +5725,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114308Z" creationid="Kos Ivantsov" creationdate="20181012T114308Z">
+        <seg>Создается очищенный файл «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T133930Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -5705,6 +5761,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190552Z" creationid="Lev Abashkin" creationdate="20171111T190552Z">
         <seg>Кросс-платформенная версия без JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114549Z" creationid="Kos Ivantsov" creationdate="20181012T114549Z">
+        <seg>Текущий файл DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -11079,6 +11143,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114405Z" creationid="Kos Ivantsov" creationdate="20181012T114405Z">
+        <seg>Уровень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 0:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T113238Z" creationid="Kos Ivantsov" creationdate="20181012T113238Z">
@@ -12182,6 +12254,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T125330Z" creationid="Kos Ivantsov" creationdate="20171114T125209Z">
         <seg>Переместите эту папку в папку приложений или в другое подходящее место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114401Z" creationid="Kos Ivantsov" creationdate="20181012T114401Z">
+        <seg>Перемещение очищенного файла «{0}» в «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114341Z" creationid="Kos Ivantsov" creationdate="20181012T114341Z">
+        <seg>Перемещение оригинала «{0}» в «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -13724,6 +13812,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Параметры фильтра OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114253Z" creationid="Kos Ivantsov" creationdate="20181012T114253Z">
+        <seg>Открывается исходный файл «{0}»</seg>
       </tuv>
     </tu>
     <tu>
