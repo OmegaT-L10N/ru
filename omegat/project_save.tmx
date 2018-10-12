@@ -12378,6 +12378,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114144Z" creationid="Kos Ivantsov" creationdate="20181012T114144Z">
+        <seg>В проекте нет файлов DOCX для очистки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T142231Z" creationid="abashkinl" creationdate="20161011T161705Z">
@@ -17845,6 +17853,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T113937Z" creationid="Kos Ivantsov" creationdate="20181012T113937Z">
         <seg>Очистка тегов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T114227Z" creationid="Kos Ivantsov" creationdate="20181012T114227Z">
+        <seg>Очистка завершена, проект перегружается...</seg>
       </tuv>
     </tu>
     <tu>
