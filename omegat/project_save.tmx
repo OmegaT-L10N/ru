@@ -3617,6 +3617,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184059Z" creationid="Kos Ivantsov" creationdate="20181112T184059Z">
+        <seg>Энтони Болдвин (менеджер по локализации);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094353Z" creationid="Lev Abashkin" creationdate="20170906T094353Z">
@@ -6417,8 +6425,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dmitri Gabinski</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211355Z" creationid="Kos Ivantsov" creationdate="20171114T211355Z">
-        <seg>Дмитрий Габинский</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184107Z" creationid="Kos Ivantsov" creationdate="20171114T211355Z">
+        <seg>Дмитрий Габинский;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,6 +10699,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Java: версия {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184201Z" creationid="Kos Ivantsov" creationdate="20181112T184201Z">
+        <seg>Жан-Кристоф Элари (владелец группы поддержки пользователей, менеджер локализации);</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,8 +16094,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Sabine Cretella</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20171114T211246Z" creationid="Kos Ivantsov" creationdate="20171114T211246Z">
-        <seg>Сабин Кретелла</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184103Z" creationid="Kos Ivantsov" creationdate="20171114T211246Z">
+        <seg>Сабин Кретелла;</seg>
       </tuv>
     </tu>
     <tu>
