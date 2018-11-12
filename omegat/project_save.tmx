@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10467M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10479M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4148,6 +4148,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184019Z" creationid="Kos Ivantsov" creationdate="20181112T183903Z">
+        <seg>Бриак Пильпре (вебмастер);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170317T141128Z" creationid="abashkinl" creationdate="20170317T141128Z">
@@ -5120,6 +5128,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>&amp;Содержание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184004Z" creationid="Kos Ivantsov" creationdate="20181112T183943Z">
+        <seg>Консепсьон Мартин (менеджер группы Facebook);</seg>
       </tuv>
     </tu>
     <tu>
@@ -6185,8 +6201,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183323Z" creationid="Lev Abashkin" creationdate="20180609T183323Z">
-        <seg>Дидье Брейль (менеджер проекта OmegaT, менеджер сообщества в Twitter)</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T183955Z" creationid="Lev Abashkin" creationdate="20180609T183323Z">
+        <seg>Дидье Брейль (менеджер проекта OmegaT, менеджер сообщества в Twitter);</seg>
       </tuv>
     </tu>
     <tu>
@@ -10793,8 +10809,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Kos Ivantsof (localisation manager)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180609T183407Z" creationid="Lev Abashkin" creationdate="20180609T183336Z">
-        <seg>Кос Иванцов (менеджер по локализации)</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T183959Z" creationid="Lev Abashkin" creationdate="20180609T183336Z">
+        <seg>Кос Иванцов (менеджер по локализации);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11549,6 +11565,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170906T094344Z" creationid="Lev Abashkin" creationdate="20170906T094344Z">
         <seg>Lucene (лицензия Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184040Z" creationid="Kos Ivantsov" creationdate="20181112T184040Z">
+        <seg>Люси Вечерова (менеджер группы Facebook).</seg>
       </tuv>
     </tu>
     <tu>
