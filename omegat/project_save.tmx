@@ -8818,6 +8818,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184235Z" creationid="Kos Ivantsov" creationdate="20181112T184235Z">
+        <seg>Генри Пийфферс (менеджер выпусков);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
