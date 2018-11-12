@@ -11761,6 +11761,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184253Z" creationid="Kos Ivantsov" creationdate="20181112T184253Z">
+        <seg>Марк Прайор (координатор проекта, вебмастер);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T135923Z" creationid="abashkinl" creationdate="20170104T180203Z">
@@ -21585,6 +21593,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T130454Z" creationid="abashkinl" creationdate="20161011T130454Z">
         <seg>Витерби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184321Z" creationid="Kos Ivantsov" creationdate="20181112T184321Z">
+        <seg>Вито Смолей (менеджер по документации);</seg>
       </tuv>
     </tu>
     <tu>
