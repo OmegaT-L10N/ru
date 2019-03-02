@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10479M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_630411e05" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -282,6 +282,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T180905Z" creationid="abashkinl" creationdate="20170104T180905Z">
         <seg>&amp;Автоматически получать переводы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060116Z" creationid="Lev Abashkin" creationdate="20190302T060116Z">
+        <seg>&amp;Автоматически искать сегменты в словаре</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,6 +5565,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060257Z" creationid="Lev Abashkin" creationdate="20190302T060257Z">
+        <seg>Copyright © 2000–2019 Кит Годфри, Максим Михальчук и другие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20180605T063906Z" creationid="Lev Abashkin" creationdate="20180605T063906Z">
@@ -5875,6 +5891,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Вырезать</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060310Z" creationid="Lev Abashkin" creationdate="20190302T060310Z">
+        <seg>Чешский</seg>
       </tuv>
     </tu>
     <tu>
@@ -7541,6 +7565,14 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Выполняется внешняя команда…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060451Z" creationid="Lev Abashkin" creationdate="20190302T060451Z">
+        <seg>Выполнение скрипта {0} (событие {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -11793,6 +11825,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T055923Z" creationid="Lev Abashkin" creationdate="20190302T055923Z">
+        <seg>Показывать разделители &amp;параграфов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T135449Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12181,6 +12221,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Одноязычный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060126Z" creationid="Lev Abashkin" creationdate="20190302T060126Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060144Z" creationid="Lev Abashkin" creationdate="20190302T060144Z">
+        <seg>Настройки фильтра Moodle PHP</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,6 +14156,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T134117Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Страница ускользает из пальцев.&lt;p&gt;Пульс бьётся тяжело и неистово,&lt;p&gt;Исчезая как туман.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060511Z" creationid="Lev Abashkin" creationdate="20190302T060511Z">
+        <seg>Разделитель параграфов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060407Z" creationid="Lev Abashkin" creationdate="20190302T060407Z">
+        <seg>Формат разделителя параграфов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,6 +17247,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060335Z" creationid="Lev Abashkin" creationdate="20190302T060335Z">
+        <seg>Словацкий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T180050Z" creationid="abashkinl" creationdate="20170316T203644Z">
@@ -18424,6 +18504,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T122254Z" creationid="abashkinl" creationdate="20170316T122254Z">
         <seg>С файлами Microsoft Office 2007-2010 можно работать непосредственно в OmegaT; с дополнительной информацией можно ознакомиться &lt;a0&gt;здесь&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060204Z" creationid="Lev Abashkin" creationdate="20190302T060204Z">
+        <seg>Фильтр Moodle PHP вызвал исключение:</seg>
       </tuv>
     </tu>
     <tu>
