@@ -2527,14 +2527,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060536Z" creationid="Lev Abashkin" creationdate="20190302T060536Z">
-        <seg>OmegaT — свободная программа для автоматизации переводаё</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181012T113205Z" creationid="Kos Ivantsov" creationdate="20181012T113205Z">
