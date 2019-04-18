@@ -14178,8 +14178,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Paragraph delimitation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060511Z" creationid="Lev Abashkin" creationdate="20190302T060511Z">
-        <seg>Разделитель параграфов</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190418T192254Z" creationid="Lev Abashkin" creationdate="20190302T060511Z">
+        <seg>Метка конца абзаца</seg>
       </tuv>
     </tu>
     <tu>
