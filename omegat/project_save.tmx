@@ -6247,6 +6247,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190419T141309Z" creationid="Kos Ivantsov" creationdate="20190419T141309Z">
+        <seg>Дидье Брейль (менеджер проекта);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170918T081924Z" creationid="Lev Abashkin" creationdate="20170918T081924Z">
@@ -10759,6 +10767,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190419T141242Z" creationid="Kos Ivantsov" creationdate="20190419T141242Z">
+        <seg>Жан-Кристоф Элари (координатор учетной записи в Twitter);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184201Z" creationid="Kos Ivantsov" creationdate="20181112T184201Z">
@@ -11813,6 +11829,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20181112T184253Z" creationid="Kos Ivantsov" creationdate="20181112T184253Z">
         <seg>Марк Прайор (координатор проекта, вебмастер);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190419T141156Z" creationid="Kos Ivantsov" creationdate="20190419T141156Z">
+        <seg>Марко Чеволи (координатор группы в Telegram);</seg>
       </tuv>
     </tu>
     <tu>
