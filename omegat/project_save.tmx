@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10634M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10652M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11867,8 +11867,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T055923Z" creationid="Lev Abashkin" creationdate="20190302T055923Z">
-        <seg>Показывать разделители &amp;параграфов</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190421T200643Z" creationid="Lev Abashkin" creationdate="20190302T055923Z">
+        <seg>Показывать границы &amp;абзацев</seg>
       </tuv>
     </tu>
     <tu>
@@ -14202,16 +14202,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Paragraph delimitation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190418T192254Z" creationid="Lev Abashkin" creationdate="20190302T060511Z">
-        <seg>Метка конца абзаца</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190421T200851Z" creationid="Lev Abashkin" creationdate="20190302T060511Z">
+        <seg>Разделитель между абзацами</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060407Z" creationid="Lev Abashkin" creationdate="20190302T060407Z">
-        <seg>Формат разделителя параграфов:</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190421T200742Z" creationid="Lev Abashkin" creationdate="20190302T060407Z">
+        <seg>Формат разделителя между абзацами:</seg>
       </tuv>
     </tu>
     <tu>
