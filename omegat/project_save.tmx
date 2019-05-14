@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10704M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10712M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4027,15 +4027,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123358Z" creationid="Kos Ivantsov" creationdate="20190514T123358Z">
-        <seg>Бармен громко кричит:
-Твоя страница не найдена, парень.
-Закажи ещё стаканчик.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T192200Z" creationid="Kos Ivantsov" creationdate="20190514T123358Z">
+        <seg>За стойкой бармен:
+«Ты этот файл не найдешь.
+Накати ещё».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7044,15 +7045,16 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
     </tu>
     <tu>
+      <note>6/7/6</note>
       <tuv lang="EN">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123409Z" creationid="Kos Ivantsov" creationdate="20190514T123409Z">
-        <seg>Пуста душа,
-Годами страдающая во тьме.
-Страница справки не найдена.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T193626Z" creationid="Kos Ivantsov" creationdate="20190514T123409Z">
+        <seg>Пустота на душе,
+Извечная во тьме боль.
+Нужный файл не найден.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7232,15 +7234,16 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Ephemeral page
 I am the Blue Screen of Death
 No one hears your screams</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123411Z" creationid="Kos Ivantsov" creationdate="20190514T123411Z">
-        <seg>Мимолётная страница.
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T193759Z" creationid="Kos Ivantsov" creationdate="20190514T123411Z">
+        <seg>Нужный файл — как дух.
 Я Синий Экран Смерти.
-Никто не услышит твоих криков.</seg>
+Крик не услышат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7596,15 +7599,16 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123228Z" creationid="Kos Ivantsov" creationdate="20190514T123228Z">
-        <seg>Великолепная страница помощи
-Тебя удерживают нити паутины
-404 — не найдено</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T190735Z" creationid="Kos Ivantsov" creationdate="20190514T123228Z">
+        <seg>Нужный файл — где он?
+Ты паутиной связан —
+Не подступится.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,15 +8933,16 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123509Z" creationid="Kos Ivantsov" creationdate="20190514T123509Z">
-        <seg>Искомая справка
-Бежит с твоего пути.
-Пришла её зима.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T194433Z" creationid="Kos Ivantsov" creationdate="20190514T123509Z">
+        <seg>Твой искомый файл
+Бежал со стези твоей.
+Зима у него.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12460,14 +12465,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/8/5</note>
       <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123416Z" creationid="Kos Ivantsov" creationdate="20190514T123416Z">
-        <seg>Плач и печаль.
-404 больше нет с нами
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T194247Z" creationid="Kos Ivantsov" creationdate="20190514T123416Z">
+        <seg>Плач, скорбь и печаль.
+Нет с нами этого файла.
 Вечная память.</seg>
       </tuv>
     </tu>
@@ -14327,15 +14333,16 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123401Z" creationid="Kos Ivantsov" creationdate="20190514T123401Z">
-        <seg>Страница ускользает из пальцев.
-Пульс бьётся тяжело и неистово,
-Исчезая как туман.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T192726Z" creationid="Kos Ivantsov" creationdate="20190514T123401Z">
+        <seg>Файл был, теперь нет.
+Неистово бьётся пульс —
+Как туман, исчез.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15477,15 +15484,16 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Rather than beep
 Or a rude error message
 These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123413Z" creationid="Kos Ivantsov" creationdate="20190514T123413Z">
-        <seg>Вместо писка
-Или грубого сообщения об ошибке
-Есть слова «Страница не найдена».</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T194101Z" creationid="Kos Ivantsov" creationdate="20190514T123413Z">
+        <seg>Не будет писка,
+Ни окна с ошибкой —
+Только «Файла нет».</seg>
       </tuv>
     </tu>
     <tu>
@@ -19168,15 +19176,16 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123406Z" creationid="Kos Ivantsov" creationdate="20190514T123406Z">
-        <seg>Искомая страница справки
-Находится за пределами нашего понимания,
-Но другие все равно ждут.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T193359Z" creationid="Kos Ivantsov" creationdate="20190514T123406Z">
+        <seg>Ищешь, ищешь файл,
+А он за чертой давно.
+Поищи другой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19737,15 +19746,16 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>6/7/6</note>
       <tuv lang="EN">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123404Z" creationid="Kos Ivantsov" creationdate="20190514T123404Z">
-        <seg>Нельзя избежать трёх вещей:
-Смерти, налогов и «страница не найдена».
-Ты стал жертвой последнего.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T193019Z" creationid="Kos Ivantsov" creationdate="20190514T123404Z">
+        <seg>Эти трое навек:
+Смерть, налоги, «файл не найден».
+Что постигло тебя?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22209,15 +22219,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>5/7/5</note>
       <tuv lang="EN">
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
 Your page is not found</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123354Z" creationid="Kos Ivantsov" creationdate="20190514T123354Z">
-        <seg>Ветер подхватывает лилию,
-Разбрасывая лепестки по ветру:
-Запрашиваемая страница не найдена.</seg>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T191153Z" creationid="Kos Ivantsov" creationdate="20190514T123354Z">
+        <seg>Ветер цветок рвет,
+Лепестки разлетелись...
+Ваш файл не найден.</seg>
       </tuv>
     </tu>
     <tu>
