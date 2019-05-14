@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10652M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10704M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4028,6 +4028,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123358Z" creationid="Kos Ivantsov" creationdate="20190514T123358Z">
+        <seg>Бармен громко кричит:
+Твоя страница не найдена, парень.
+Закажи ещё стаканчик.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161012T093017Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -5863,6 +5875,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T121046Z" creationid="Kos Ivantsov" creationdate="20190514T121046Z">
+        <seg>Курсор заблокирован</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122350Z" creationid="Kos Ivantsov" creationdate="20190514T121053Z">
+        <seg>Курсор свободен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -7017,6 +7045,18 @@ project_save.tmx не был выгружен и SVN переключилась 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123409Z" creationid="Kos Ivantsov" creationdate="20190514T123409Z">
+        <seg>Пуста душа,
+Годами страдающая во тьме.
+Страница справки не найдена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -7189,6 +7229,18 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Статьи из глоссария для записи выделены жирным шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123411Z" creationid="Kos Ivantsov" creationdate="20190514T123411Z">
+        <seg>Мимолётная страница.
+Я Синий Экран Смерти.
+Никто не услышит твоих криков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7541,6 +7593,18 @@ project_save.tmx не был выгружен и SVN переключилась 
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>При загрузке правил сегментации произошли ошибки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123228Z" creationid="Kos Ivantsov" creationdate="20190514T123228Z">
+        <seg>Великолепная страница помощи
+Тебя удерживают нити паутины
+404 — не найдено</seg>
       </tuv>
     </tu>
     <tu>
@@ -8866,6 +8930,18 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123509Z" creationid="Kos Ivantsov" creationdate="20190514T123509Z">
+        <seg>Искомая справка
+Бежит с твоего пути.
+Пришла её зима.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20161011T135930Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -9206,6 +9282,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Языковые файлы ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122258Z" creationid="Kos Ivantsov" creationdate="20190514T122258Z">
+        <seg>ВСТ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10017,6 +10101,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Вставить отсутствующие &amp;теги оригинала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T121119Z" creationid="Kos Ivantsov" creationdate="20190514T121119Z">
+        <seg>Режим вставки</seg>
       </tuv>
     </tu>
     <tu>
@@ -10915,6 +11007,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170105T141011Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>&amp;Журнал…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122311Z" creationid="Kos Ivantsov" creationdate="20190514T121124Z">
+        <seg>БЛОК</seg>
       </tuv>
     </tu>
     <tu>
@@ -11865,6 +11965,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T121033Z" creationid="Kos Ivantsov" creationdate="20190514T121033Z">
+        <seg>Показывать границы &amp;абзацев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190421T200643Z" creationid="Lev Abashkin" creationdate="20190302T055923Z">
@@ -12349,6 +12457,18 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170312T063300Z" creationid="abashkinl" creationdate="20170312T063300Z">
         <seg>Для большинства данных скриптов требуется ОС Windows, однако некоторые процедуры могут работать и на других платформах.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123416Z" creationid="Kos Ivantsov" creationdate="20190514T123416Z">
+        <seg>Плач и печаль.
+404 больше нет с нами
+Вечная память.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,6 +13218,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20171111T190505Z" creationid="Lev Abashkin" creationdate="20171111T190505Z">
         <seg>OS X без электронной подписи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T121656Z" creationid="Kos Ivantsov" creationdate="20190514T121656Z">
+        <seg>ЗАМ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14152,6 +14280,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T121654Z" creationid="Kos Ivantsov" creationdate="20190514T121114Z">
+        <seg>Режим замены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -14188,6 +14324,18 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20170927T072240Z" creationid="Lev Abashkin" creationdate="20170927T072240Z">
         <seg>Страница не найдена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123401Z" creationid="Kos Ivantsov" creationdate="20190514T123401Z">
+        <seg>Страница ускользает из пальцев.
+Пульс бьётся тяжело и неистово,
+Исчезая как туман.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15326,6 +15474,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170316T203251Z" creationid="abashkinl" creationdate="20170316T202506Z">
         <seg>RTF по своей структуре значительно отличается от формата Microsoft Office 98-2003, но для OmegaT ситуация отличается мало: формат не поддерживается напрямую и должен быть преобразован к .docx (MS Office 2007/2010) или Open Document format (LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123413Z" creationid="Kos Ivantsov" creationdate="20190514T123413Z">
+        <seg>Вместо писка
+Или грубого сообщения об ошибке
+Есть слова «Страница не найдена».</seg>
       </tuv>
     </tu>
     <tu>
@@ -16522,6 +16682,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="Lev Abashkin" changedate="20190302T060632Z" creationid="Lev Abashkin" creationdate="20190302T060632Z">
         <seg>Искать в словарях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122910Z" creationid="Kos Ivantsov" creationdate="20190514T122910Z">
+        <seg>Искомый текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122925Z" creationid="Kos Ivantsov" creationdate="20190514T122925Z">
+        <seg>Текст замены</seg>
       </tuv>
     </tu>
     <tu>
@@ -18993,6 +19169,18 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123406Z" creationid="Kos Ivantsov" creationdate="20190514T123406Z">
+        <seg>Искомая страница справки
+Находится за пределами нашего понимания,
+Но другие все равно ждут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -19546,6 +19734,18 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170318T211504Z" creationid="abashkinl" creationdate="20170318T211427Z">
         <seg>Эти сегменты обозначаются и разделяются специальными символами и стилями форматирования MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123404Z" creationid="Kos Ivantsov" creationdate="20190514T123404Z">
+        <seg>Нельзя избежать трёх вещей:
+Смерти, налогов и «страница не найдена».
+Ты стал жертвой последнего.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20843,6 +21043,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T122522Z" creationid="Kos Ivantsov" creationdate="20190514T122522Z">
+        <seg>СВОБ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="abashkinl" changedate="20170104T143057Z" creationid="abashkinl" creationdate="20170104T143057Z">
@@ -21998,6 +22206,18 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Синхронизация будет произведена в следующий раз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190514T123354Z" creationid="Kos Ivantsov" creationdate="20190514T123354Z">
+        <seg>Ветер подхватывает лилию,
+Разбрасывая лепестки по ветру:
+Запрашиваемая страница не найдена.</seg>
       </tuv>
     </tu>
     <tu>
