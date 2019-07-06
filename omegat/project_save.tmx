@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10726M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_7b352a743" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7428,6 +7428,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Ошибка обновления файла глоссария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190706T121544Z" creationid="Kos Ivantsov" creationdate="20190706T121544Z">
+        <seg>Ошибка обновления репозитория.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17467,6 +17475,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190418T190846Z" creationid="Kos Ivantsov" creationdate="20190418T190846Z">
         <seg>Пропуск модуля (плагина), ранее загруженного из класса '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Kos Ivantsov" changedate="20190706T121646Z" creationid="Kos Ivantsov" creationdate="20190706T121646Z">
+        <seg>Репозиторий пропущен.</seg>
       </tuv>
     </tu>
     <tu>
