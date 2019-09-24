@@ -2663,6 +2663,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20190924T090926Z" creationid="Lev Abashkin" creationdate="20190924T090926Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — это свободная система автоматического перевода, работающая в Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20170906T213507Z" creationid="Kos Ivantsov" creationdate="20170906T213507Z">
@@ -14609,6 +14617,14 @@ to determine the source of the error and try again.</seg>
         <seg>Обратитесь к журналу
 ({1})
 для определения причины ошибки и попробуйте снова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20190924T091135Z" creationid="Lev Abashkin" creationdate="20190924T091135Z">
+        <seg>Чтобы узнать подробности о процессе локализации/перевода OmegaT, пожалуйста, свяжитесь с &lt;a0&gt;координатором локализации OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
