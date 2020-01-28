@@ -2729,10 +2729,10 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20190828T163132Z" creationid="Kos Ivantsov" creationdate="20171114T212149Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20200128T103513Z" creationid="Kos Ivantsov" creationdate="20171114T212149Z">
         <seg>Перевод на русский язык:
 Михаил Васильев, Андрей Кутузов, Павел Марьянов, Андрей Сербовец © 2014
-Лев Абашкин, Кос Иванцов © 2018–2019</seg>
+Лев Абашкин, Кос Иванцов © 2018–2020</seg>
       </tuv>
     </tu>
     <tu>
