@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3d6c65e33" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_27230afbb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2865,6 +2865,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200530Z" creationid="Lev Abashkin" creationdate="20200610T200530Z">
+        <seg>Ключ API (опционально)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170104T133234Z" creationid="abashkinl" creationdate="20170104T133234Z">
@@ -3860,6 +3868,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200032Z" creationid="Lev Abashkin" creationdate="20200610T200032Z">
+        <seg>Автор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -4849,6 +4865,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200024Z" creationid="Lev Abashkin" creationdate="20200610T200024Z">
+        <seg>Класс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20181012T114318Z" creationid="Kos Ivantsov" creationdate="20181012T114318Z">
@@ -5253,6 +5277,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20171111T191052Z" creationid="Lev Abashkin" creationdate="20171111T191052Z">
         <seg>OmegaT в Интернете</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200458Z" creationid="Lev Abashkin" creationdate="20200610T200458Z">
+        <seg>Подключаться к частному серверу вместо apertium.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -5912,6 +5944,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Выбор пользовательских цветов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200517Z" creationid="Lev Abashkin" creationdate="20200610T200517Z">
+        <seg>URL частного сервера</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,6 +7243,22 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200814Z" creationid="Lev Abashkin" creationdate="20200610T200814Z">
+        <seg>Убедитесь, что URL указан верно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200609Z" creationid="Lev Abashkin" creationdate="20200610T200609Z">
+        <seg>Убедитесь, что URL сервера указан верно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20161012T153359Z" creationid="abashkinl" creationdate="20161012T153359Z">
@@ -8169,6 +8225,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Плавающий символ «?» не привязан к «&gt;»!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195019Z" creationid="Lev Abashkin" creationdate="20200610T195019Z">
+        <seg>Идентификатор каталога</seg>
       </tuv>
     </tu>
     <tu>
@@ -10292,6 +10356,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200021Z" creationid="Lev Abashkin" creationdate="20200610T200021Z">
+        <seg>Установленные плагины:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170312T180456Z" creationid="abashkinl" creationdate="20170312T180456Z">
@@ -12386,6 +12458,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200346Z" creationid="Lev Abashkin" creationdate="20200610T200346Z">
+        <seg>Минимальный порог для отображения нечёткого совпадения:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12697,6 +12777,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200218Z" creationid="Lev Abashkin" creationdate="20200610T200218Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200241Z" creationid="Lev Abashkin" creationdate="20200610T200241Z">
+        <seg>Настройки фильтра Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20161024T161921Z" creationid="abashkinl" creationdate="20161024T161921Z">
@@ -12889,6 +12985,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195221Z" creationid="Lev Abashkin" creationdate="20200610T195155Z">
+        <seg>Не указан OAuth-токен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12901,6 +13005,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20180703T131210Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Соединение недоступно: работа с проектом в автономном режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195231Z" creationid="Lev Abashkin" creationdate="20200610T195231Z">
+        <seg>Не указан идентификатор каталога</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,6 +13401,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Па&amp;раметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195140Z" creationid="Lev Abashkin" creationdate="20200610T195140Z">
+        <seg>OAuth-токен</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,6 +19030,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200302Z" creationid="Lev Abashkin" creationdate="20200610T200302Z">
+        <seg>Фильтр Mozilla FTL вызвал исключение:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20170927T072228Z" creationid="Lev Abashkin" creationdate="20170927T072228Z">
@@ -19619,6 +19747,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170315T170434Z" creationid="abashkinl" creationdate="20170315T170434Z">
         <seg>Второй указывается, если необходимо использовать версию Java отличную от версии по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T200752Z" creationid="Lev Abashkin" creationdate="20200610T200752Z">
+        <seg>На сервере не работает Apertium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21351,10 +21487,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195805Z" creationid="Lev Abashkin" creationdate="20200610T195805Z">
+        <seg>Неизвестный формат ответа сервиса IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Не удалось обработать файл с параметрами фильтров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195946Z" creationid="Lev Abashkin" creationdate="20200610T195946Z">
+        <seg>Неизвестный формат сообщения об ошибке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T195831Z" creationid="Lev Abashkin" creationdate="20200610T195831Z">
+        <seg>Неизвестный формат ответа сервиса перевода</seg>
       </tuv>
     </tu>
     <tu>
@@ -22769,6 +22929,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20161011T114001Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Яндекс.Переводчик — Не указан ключ API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20200610T194841Z" creationid="Lev Abashkin" creationdate="20200610T194841Z">
+        <seg>Яндекс.Облако</seg>
       </tuv>
     </tu>
     <tu>
