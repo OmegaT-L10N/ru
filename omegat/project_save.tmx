@@ -4818,6 +4818,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T151609Z" creationid="Lev Abashkin" creationdate="20201124T151609Z">
+        <seg>Проверять простые шаблоны &amp;java MessageFormat (например {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check spelling (various procedures)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20170924T170945Z" creationid="Lev Abashkin" creationdate="20170924T170945Z">
@@ -12886,6 +12894,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>MyMemory (машинный перевод)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T151924Z" creationid="Lev Abashkin" creationdate="20201124T151924Z">
+        <seg>Файловый фильтр Пакеты ресурсов Java™ обнаруживает их сам.</seg>
       </tuv>
     </tu>
     <tu>
