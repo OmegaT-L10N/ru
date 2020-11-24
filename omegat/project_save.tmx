@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_6b3832026" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_86f682573" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5699,6 +5699,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T151100Z" creationid="Lev Abashkin" creationdate="20201124T151100Z">
+        <seg>Не получилось удалить {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -8596,6 +8604,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170312T065025Z" creationid="abashkinl" creationdate="20170312T065025Z">
         <seg>Серия видео об OmegaT на YouTube от Мигеля Наварро (на испанском языке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T150947Z" creationid="Lev Abashkin" creationdate="20201124T150947Z">
+        <seg>Включение полной проверки может привести к получению ложно-положительных результатов в обычных текстах, и фильтр файлов PO уже обнаруживает их.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18732,6 +18748,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T151225Z" creationid="Lev Abashkin" creationdate="20201124T151225Z">
+        <seg>Мапирование репозиториев для командного режима работы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -24046,6 +24070,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20170918T075624Z" creationid="Lev Abashkin" creationdate="20170918T075624Z">
         <seg>{0} переключает ориентацию текста (слева направо, справа налево, в зависимости от языка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T150731Z" creationid="Lev Abashkin" creationdate="20201124T150731Z">
+        <seg>{0} версия {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T150751Z" creationid="Lev Abashkin" creationdate="20201124T150751Z">
+        <seg>{0} версия {1}, обновление {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
