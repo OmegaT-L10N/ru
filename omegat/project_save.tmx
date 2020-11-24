@@ -4658,6 +4658,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T152229Z" creationid="Lev Abashkin" creationdate="20201124T152229Z">
+        <seg>Изменять на "needs-review-translation" вместо "translated"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -18134,6 +18142,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170104T195904Z" creationid="abashkinl" creationdate="20170104T195904Z">
         <seg>Укажите мнемонику с помощью "&amp;": "F&amp;oobar" для использования O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20201124T152137Z" creationid="Lev Abashkin" creationdate="20201124T152137Z">
+        <seg>Указать поведение при работе с атрибутом state</seg>
       </tuv>
     </tu>
     <tu>
