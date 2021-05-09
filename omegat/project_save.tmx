@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_86f682573" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_1ef729c31" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8880,6 +8880,30 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113138Z" creationid="Lev Abashkin" creationdate="20210509T113138Z">
+        <seg>Примечание глоссария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113126Z" creationid="Lev Abashkin" creationdate="20210509T113126Z">
+        <seg>Оригинал глоссария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113130Z" creationid="Lev Abashkin" creationdate="20210509T113130Z">
+        <seg>Перевод глоссария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -11193,6 +11217,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T112903Z" creationid="Lev Abashkin" creationdate="20210509T112903Z">
+        <seg>Сохранять теги в переведённом тексте</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170317T081303Z" creationid="abashkinl" creationdate="20170311T205009Z">
@@ -12291,6 +12323,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T114108Z" creationid="Lev Abashkin" creationdate="20210509T114108Z">
+        <seg>Помечать неизвестные слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mask</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -12471,6 +12511,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Объединить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T114040Z" creationid="Lev Abashkin" creationdate="20210509T114040Z">
+        <seg>Совмещать альтернативные определения для одного термина</seg>
       </tuv>
     </tu>
     <tu>
@@ -14987,6 +15035,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T112950Z" creationid="Lev Abashkin" creationdate="20210509T112950Z">
+        <seg>Введите имя пользователя и пароль для {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170104T151300Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -17134,6 +17190,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20161012T152915Z" creationid="abashkinl" creationdate="20161012T152915Z">
         <seg>Допустимые значения смотрите в OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113324Z" creationid="Lev Abashkin" creationdate="20210509T113324Z">
+        <seg>Список поддерживаемых форматов файлов смотрите в Настройки &gt; Файловые фильтры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,6 +20809,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113946Z" creationid="Lev Abashkin" creationdate="20210509T113616Z">
+        <seg>Чтобы добавить файлы в проект, вы можете:
+- перетащить файлы в область редактирования;
+- использовать меню Проект &gt; Скопировать документы в папку файлов оригинала...;
+- кликнуть на Скопировать документы в папку файлов оригинала... в окне Файлы проекта;
+- скопировать файлы в папку оригиналов проекта в файловом менеджере, а затем перезагрузить проект через меню Проект &gt; Перезагрузить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -22978,6 +23058,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Неверное имя пользователя или пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20210509T113037Z" creationid="Lev Abashkin" creationdate="20210509T113037Z">
+        <seg>Неверные имя пользователя/пароль для {0}</seg>
       </tuv>
     </tu>
     <tu>
