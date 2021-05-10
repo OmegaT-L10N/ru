@@ -19160,6 +19160,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T133646Z" creationid="Kos Ivantsov" creationdate="20210510T133646Z">
+        <seg>sca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170106T200430Z" creationid="abashkinl" creationdate="20170106T200430Z">
