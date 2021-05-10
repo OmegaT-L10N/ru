@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_ead58c6ff" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1505,6 +1505,15 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131315Z" creationid="Kos Ivantsov" creationdate="20210510T131315Z">
+        <seg>(Если вы считаете, что внесли серьезный вклад в развитие проекта OmegaT, но не видите своего имени в списке, пожалуйста, сообщите нам об этом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170312T073853Z" creationid="abashkinl" creationdate="20170312T065642Z">
@@ -2770,8 +2779,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20170912T202123Z" creationid="Kos Ivantsov" creationdate="20170912T202123Z">
-        <seg>===============</seg>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131515Z" creationid="Kos Ivantsov" creationdate="20170912T202123Z">
+        <seg>==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10498,9 +10507,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20171114T120935Z" creationid="Kos Ivantsov" creationdate="20171114T120935Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131434Z" creationid="Kos Ivantsov" creationdate="20171114T120935Z">
         <seg>Установка OmegaT (OS X)
-==========================</seg>
+=======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10528,9 +10537,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20171114T120939Z" creationid="Kos Ivantsov" creationdate="20171114T120809Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131429Z" creationid="Kos Ivantsov" creationdate="20171114T120809Z">
         <seg>Установка OmegaT (Windows)
-=============================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,9 +11789,9 @@ itself on the first run.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20171114T124523Z" creationid="Kos Ivantsov" creationdate="20171114T120735Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131420Z" creationid="Kos Ivantsov" creationdate="20171114T120735Z">
         <seg>Информация о лицензировании
-==============================</seg>
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,9 +15319,9 @@ additional steps need to be taken.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20171114T120949Z" creationid="Kos Ivantsov" creationdate="20171114T120551Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131425Z" creationid="Kos Ivantsov" creationdate="20171114T120551Z">
         <seg>Необходимые условия для установки OmegaT
-============================================</seg>
+========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -22665,7 +22674,7 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20171114T120037Z" creationid="Kos Ivantsov" creationdate="20171114T120025Z">
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20210510T131358Z" creationid="Kos Ivantsov" creationdate="20171114T120025Z">
         <seg>Что собой представляет OmegaT?</seg>
       </tuv>
     </tu>
