@@ -13727,6 +13727,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T105119Z" creationid="Kos Ivantsov" creationdate="20211004T105119Z">
+        <seg>Стандартная тема OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170105T191203Z" creationid="abashkinl" creationdate="20170105T191203Z">
@@ -13811,6 +13819,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20170906T211219Z" creationid="Kos Ivantsov" creationdate="20170906T211026Z">
         <seg>Для работы OmegaT требуется JRE версии 1.6 или более новая.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T105131Z" creationid="Kos Ivantsov" creationdate="20211004T105131Z">
+        <seg>Тема OmegaT по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -16118,6 +16134,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T105059Z" creationid="Kos Ivantsov" creationdate="20211004T105059Z">
+        <seg>Изменения вступят в силу после перезагрузки текущего проекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -16572,6 +16596,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Lev Abashkin" changedate="20170927T072253Z" creationid="Lev Abashkin" creationdate="20170927T072253Z">
         <seg>Ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T105027Z" creationid="Kos Ivantsov" creationdate="20211004T105027Z">
+        <seg>Изменения вступят в силу после перезапуска OmegaT</seg>
       </tuv>
     </tu>
     <tu>
