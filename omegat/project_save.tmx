@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_03b2354e0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1114,6 +1114,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170105T110859Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>С&amp;бросить цвет выбранного элемента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104651Z" creationid="Kos Ivantsov" creationdate="20211004T104651Z">
+        <seg>Перезапустит&amp;ь</seg>
       </tuv>
     </tu>
     <tu>
@@ -4759,6 +4767,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Символы (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104709Z" creationid="Kos Ivantsov" creationdate="20211004T104709Z">
+        <seg>Символы (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104700Z" creationid="Kos Ivantsov" creationdate="20211004T104700Z">
+        <seg>Символы (без пробелов)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16086,6 +16110,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104831Z" creationid="Kos Ivantsov" creationdate="20211004T104831Z">
+        <seg>Осталось символов (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104740Z" creationid="Kos Ivantsov" creationdate="20211004T104740Z">
+        <seg>Осталось символов (без пробелов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -20129,6 +20169,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104656Z" creationid="Kos Ivantsov" creationdate="20211004T104656Z">
+        <seg>Тема:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="abashkinl" changedate="20170315T165420Z" creationid="abashkinl" creationdate="20170315T165347Z">
@@ -21093,6 +21141,22 @@ su -c ./linux-install.sh</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104821Z" creationid="Kos Ivantsov" creationdate="20211004T104821Z">
+        <seg>Всего символов (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104719Z" creationid="Kos Ivantsov" creationdate="20211004T104719Z">
+        <seg>Всего символов (без пробелов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -21841,6 +21905,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104841Z" creationid="Kos Ivantsov" creationdate="20211004T104841Z">
+        <seg>Уникальные символы (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104750Z" creationid="Kos Ivantsov" creationdate="20211004T104750Z">
+        <seg>Уникальные символы (без пробелов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
@@ -21853,6 +21933,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20161011T080035Z" creationid="OmegaT Aligner" creationdate="20161011T080035Z">
         <seg>Осталось уникальных символов (включая пробелы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104852Z" creationid="Kos Ivantsov" creationdate="20211004T104852Z">
+        <seg>Осталось уникальных символов (с пробелами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211004T104803Z" creationid="Kos Ivantsov" creationdate="20211004T104803Z">
+        <seg>Осталось уникальных символов (без пробелов)</seg>
       </tuv>
     </tu>
     <tu>
