@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_03b2354e0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_744e50c47" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8989,6 +8989,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20170918T123618Z" creationid="Kos Ivantsov" creationdate="20170918T123618Z">
         <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Translate (witout API key)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kos Ivantsov" changedate="20211122T122400Z" creationid="Kos Ivantsov" creationdate="20211122T122400Z">
+        <seg>Google Translate (без ключа API)</seg>
       </tuv>
     </tu>
     <tu>
